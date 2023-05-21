@@ -1,0 +1,617 @@
+Protein Group,Protein ID,Accession,Score (%),-10lgP,Coverage (%),#Peptides,#Unique,PTM,Avg. Mass,Description
+2,7,sp|P61490|CH60_THET2,99.2,442.73,41,37,36,Oxidation (M),57889,Chaperonin GroEL OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=groEL PE=1 SV=2
+1,22,Q72JN7|Q72JN7_THET2,99.2,423.42,80,41,41,Oxidation (M); Carbamidomethylation,42217,Membrane lipoprotein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0733 PE=3 SV=1
+3,16,Q72IL1|Q72IL1_THET2,99.2,379.97,64,34,33,Oxidation (M),44674,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1121 PE=4 SV=1
+9,4,Q72GZ7|Q72GZ7_THET2,99.2,378.13,48,34,30,Oxidation (M),101002,Oxoglutarate dehydrogenase (succinyl-transferring) OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1698 PE=4 SV=1
+4,1,sp|Q72GW4|EFTU_THET2,99.2,360.61,60,36,35,Oxidation (M),44782,Elongation factor Tu OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=tuf1 PE=3 SV=1
+6,2,Q72L90|Q72L90_THET2,99.2,344.78,56,30,29,Oxidation (M),42080,Succinate--CoA ligase [ADP-forming] subunit beta OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=sucC PE=3 SV=1
+34,26,Q72HS2|Q72HS2_THET2,99.2,331.06,60,20,19,Oxidation (M),32988,Fructose-bisphosphate aldolase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1414 PE=4 SV=1
+10,8,sp|Q72I01|EFG_THET2,99.2,327.58,37,23,21,Oxidation (M); Formylation,76911,Elongation factor G OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=fusA PE=1 SV=1
+16,5,sp|Q72GY7|PCKA_THET2,99.2,320.82,42,17,17,Oxidation (M),59315,Phosphoenolpyruvate carboxykinase (ATP) OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pckA PE=3 SV=1
+54,228,Q72IL4|Q72IL4_THET2,99.0,309.49,82,11,11,Oxidation (M),16015,Bacterioferritin OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1118 PE=3 SV=1
+49,9,Q72KF0|Q72KF0_THET2,99.2,308.61,31,17,16,,79678,Multifunctional fusion protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=secD PE=3 SV=1
+14,33,sp|Q72I32|RPOA_THET2,99.2,298.97,65,21,21,,35013,DNA-directed RNA polymerase subunit alpha OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpoA PE=3 SV=1
+15,41,Q72J67|Q72J67_THET2,99.2,297.64,32,20,18,Formylation,72148,V-type ATP synthase subunit I OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0912 PE=3 SV=1
+20,24,sp|Q72IH2|GLYA_THET2,99.2,296.65,53,20,20,Oxidation (M),44533,Serine hydroxymethyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=glyA PE=3 SV=2
+18,3,Q72H84|Q72H84_THET2,99.2,287.90,39,14,13,,51195,Pyruvate kinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1611 PE=3 SV=1
+40,76,sp|Q72I05|RL4_THET2,99.1,286.80,56,12,12,Formylation,22708,50S ribosomal protein L4 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplD PE=1 SV=1
+48,21,sp|Q72J70|VATC_THET2,99.2,286.68,44,13,13,,35947,V-type ATP synthase subunit C OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=atpC PE=3 SV=1
+17,6,Q72KN3|Q72KN3_THET2,99.2,285.29,28,20,20,Oxidation (M),99771,Aconitate hydratase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0374 PE=3 SV=1
+32,115,sp|Q72GS1|RL10_THET2,99.2,284.14,80,12,10,Oxidation (M),18566,50S ribosomal protein L10 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplJ PE=1 SV=1
+62,73,Q72IH8|Q72IH8_THET2,99.1,280.33,61,11,11,,26218,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1154 PE=4 SV=1
+61,65,sp|Q72GD1|NUOD_THET2,99.1,275.47,30,9,9,Oxidation (M),46423,NADH-quinone oxidoreductase subunit D OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=nuoD PE=3 SV=1
+35,12,sp|Q72HM6|RPOC_THET2,99.2,274.55,13,18,17,Formylation; Carbamidomethylation,170717,DNA-directed RNA polymerase subunit beta' OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpoC PE=3 SV=2
+8,44,sp|Q72I16|RL5_THET2,99.2,272.76,68,18,17,,21044,50S ribosomal protein L5 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplE PE=1 SV=3
+72,50,Q72JH9|Q72JH9_THET2,99.1,270.29,38,9,9,,32605,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0793 PE=4 SV=1
+28,30,sp|P62662|RS2_THET2,99.2,270.23,51,15,15,Oxidation (M),29277,30S ribosomal protein S2 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsB PE=1 SV=2
+51,18,Q72H64|Q72H64_THET2,99.2,268.74,33,15,14,,66897,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1631 PE=4 SV=1
+37,154,sp|Q72HR2|RL21_THET2,99.1,266.46,79,12,10,Oxidation (M),11047,50S ribosomal protein L21 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplU PE=1 SV=1
+13,23,sp|O66271|FUMC_THET2,99.2,265.86,39,15,15,Oxidation (M),50883,Fumarate hydratase class II OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=fumC PE=3 SV=2
+39,43,Q72L52|Q72L52_THET2,99.2,265.48,35,13,11,Oxidation (M),42148,Sugar-binding transport ATP-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0211 PE=4 SV=1
+5,124,Q72IL2|Q72IL2_THET2,99.2,265.34,88,18,17,,15743,Small heat shock protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1120 PE=3 SV=1
+45,56,Q72GQ8|Q72GQ8_THET2,99.2,265.20,39,14,14,Oxidation (M),40289,C4-dicarboxylate-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1790 PE=3 SV=1
+11,105,Q72IL7|Q72IL7_THET2,99.2,265.08,83,14,13,Oxidation (M),16861,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1115 PE=4 SV=1
+58,72,Q72K12|Q72K12_THET2,99.1,260.10,52,8,8,,28709,Phenylacetic acid degradation protein paaC OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=paaC PE=4 SV=1
+52,48,sp|P61488|AK_THET2,99.1,260.00,27,10,8,,43333,Aspartokinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ask PE=3 SV=1
+25,17,sp|P62420|PGK_THET2,99.2,259.97,43,16,16,,41791,Phosphoglycerate kinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pgk PE=3 SV=1
+42,25,Q72JA6|Q72JA6_THET2,99.2,253.53,42,11,11,Oxidation (M),38949,Spermidine/putrescine-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0873 PE=3 SV=1
+21,35,Q72L91|Q72L91_THET2,99.1,250.60,55,11,10,Oxidation (M); Carbamidomethylation,29808,Succinate--CoA ligase [ADP-forming] subunit alpha OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=sucD PE=3 SV=1
+12,29,sp|P62664|RS4_THET2,99.2,249.10,61,20,19,Carbamidomethylation,24324,30S ribosomal protein S4 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsD PE=1 SV=2
+81,19,Q72J48|Q72J48_THET2,99.1,246.01,20,10,8,,70765,Methionine--tRNA ligase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=metG PE=3 SV=1
+36,169,Q72HC5|Q72HC5_THET2,99.1,245.82,36,10,10,Oxidation (M),25991,Cytochrome c OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1570 PE=4 SV=1
+24,94,sp|P62658|RS17_THET2,99.1,245.74,68,13,12,Oxidation (M),12297,30S ribosomal protein S17 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsQ PE=1 SV=2
+38,28,Q72IN8|Q72IN8_THET2,99.2,244.00,39,12,12,,40727,ABC transporter substrate-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1094 PE=4 SV=1
+74,185,sp|Q72JV2|TTUD_THET2,99.1,240.72,32,7,7,,32925,Sulfur carrier protein TtuD OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ttuD PE=1 SV=1
+53,11,sp|Q72IK9|CLPB_THET2,99.2,236.93,20,14,13,,96141,Chaperone protein ClpB OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=clpB PE=3 SV=1
+30,42,sp|Q72GV9|RL1_THET2,99.2,230.92,52,16,13,Oxidation (M),24826,50S ribosomal protein L1 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplA PE=1 SV=3
+41,177,Q72KI4|Q72KI4_THET2,99.0,225.98,63,8,8,,15517,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0476 PE=4 SV=1
+64,165,Q72KA7|Q72KA7_THET2,99.1,224.91,38,7,6,,24340,Hypothetical membrane spanning protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0540 PE=4 SV=1
+46,54,Q72J07|Q72J07_THET2,99.2,224.72,36,10,10,,38056,PrcB_C domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0974 PE=4 SV=1
+27,37,Q72GZ6|Q72GZ6_THET2,99.2,224.65,23,17,15,,44611,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1699 PE=3 SV=1
+44,10,Q72L70|Q72L70_THET2,99.2,220.69,21,17,15,,90024,Outer membrane protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0193 PE=4 SV=1
+22,77,sp|P62668|RS8_THET2,99.2,215.88,67,17,17,Carbamidomethylation,15837,30S ribosomal protein S8 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsH PE=1 SV=1
+43,20,sp|Q72IK5|DNAK_THET2,99.2,215.12,20,13,13,,66810,Chaperone protein DnaK OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=dnaK PE=3 SV=1
+68,51,sp|Q72I07|RL2_THET2,99.1,214.91,36,10,10,,30468,50S ribosomal protein L2 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplB PE=1 SV=1
+29,152,sp|P62665|RS5_THET2,99.0,214.68,46,7,7,Oxidation (M),17557,30S ribosomal protein S5 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsE PE=1 SV=2
+115,160,Q72H17|Q72H17_THET2,99.1,213.42,30,7,7,,28040,Enoyl-[acyl-carrier-protein] reductase [NADH] OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=fabL PE=3 SV=1
+104,100,Q72K56|Q72K56_THET2,99.1,212.66,44,6,5,Carbamidomethylation,23002,Thiol:disulfide interchange protein dsbA OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=dsbA PE=4 SV=1
+65,294,sp|P62654|RS11_THET2,99.0,210.87,35,7,7,,13713,30S ribosomal protein S11 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsK PE=1 SV=2
+94,120,Q72I24|Q72I24_THET2,99.1,210.69,19,7,7,,48195,Protein translocase subunit SecY OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=secY PE=3 SV=1
+167,123,Q72IG4|Q72IG4_THET2,98.4,210.27,15,5,5,,65313,Putative oligoendopeptidase F protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1168 PE=3 SV=1
+78,82,Q72HB6|Q72HB6_THET2,98.9,209.13,35,6,5,,21629,Hypothetical exported protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1579 PE=3 SV=1
+7,34,Q72IL3|Q72IL3_THET2,99.2,208.27,65,26,23,Oxidation (M),25667,Heat-stable protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1119 PE=4 SV=1
+109,70,sp|Q72IE5|GUAA_THET2,99.1,207.99,17,7,7,,55789,GMP synthase [glutamine-hydrolyzing] OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=guaA PE=3 SV=1
+87,52,Q72IP2|Q72IP2_THET2,99.1,207.88,29,9,7,Oxidation (M); Formylation,39016,Succinate dehydrogenase flavoprotein subunit-like protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1090 PE=4 SV=1
+92,135,sp|P62667|RS7_THET2,99.1,207.46,58,8,7,Oxidation (M),18016,30S ribosomal protein S7 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsG PE=1 SV=2
+197,144,sp|Q746B8|PXPA_THET2,99.0,206.89,33,5,4,Oxidation (M),26780,5-oxoprolinase subunit A OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pxpA PE=3 SV=1
+56,39,sp|Q72I04|RL3_THET2,99.1,206.80,45,12,12,Oxidation (M); Carbamidomethylation,22408,50S ribosomal protein L3 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplC PE=1 SV=1
+60,181,sp|Q72I20|RL18_THET2,99.1,206.09,56,7,5,,12612,50S ribosomal protein L18 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplR PE=1 SV=3
+55,101,sp|Q72IA7|RL25_THET2,99.1,205.90,55,10,10,,23205,50S ribosomal protein L25 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplY PE=1 SV=1
+59,114,sp|Q72I14|RL14_THET2,99.1,204.44,72,9,9,,13289,50S ribosomal protein L14 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplN PE=1 SV=1
+105,156,Q72IR3|Q72IR3_THET2,98.8,201.84,37,4,4,,20214,Putative dehydratase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1069 PE=3 SV=1
+142,86,Q72IP9|Q72IP9_THET2,98.8,197.29,13,4,3,,48409,4-hydroxybutyrate coenzyme A transferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1083 PE=3 SV=1
+82,112,Q72HD6|Q72HD6_THET2,99.1,197.15,17,7,7,,60375,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1557 PE=4 SV=1
+50,162,sp|Q72I09|RL22_THET2,99.1,196.33,53,7,6,Oxidation (M),12780,50S ribosomal protein L22 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplV PE=1 SV=1
+161,240,Q72J82|Q72J82_THET2,99.0,196.32,15,6,5,,57194,4-alpha-glucanotransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0897 PE=3 SV=1
+71,13,sp|Q72HM5|RPOB_THET2,99.1,195.19,9,9,5,,125260,DNA-directed RNA polymerase subunit beta OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpoB PE=3 SV=1
+121,47,sp|Q72JC8|ILVC_THET2,99.1,194.79,26,6,6,,37078,Ketol-acid reductoisomerase (NADP(+)) OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ilvC PE=3 SV=1
+225,27,Q72IG0|Q72IG0_THET2,99.0,194.28,13,4,4,,54425,Isocitrate dehydrogenase (NADP(+)) OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1172 PE=3 SV=1
+107,93,Q72K10|Q72K10_THET2,98.7,193.46,20,5,5,Oxidation (M),37375,Phenylacetic acid degradation protein paaA OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=paaA PE=4 SV=1
+150,151,sp|Q72GD0|NUOC_THET2,98.8,193.42,42,6,6,Oxidation (M),23859,NADH-quinone oxidoreductase subunit C OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=nuoC PE=3 SV=1
+144,59,Q72JU1|Q72JU1_THET2,98.9,192.55,13,4,4,,62693,Methylmalonyl-CoA mutase large subunit OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0677 PE=4 SV=1
+66,149,Q72JK2|Q72JK2_THET2,99.1,191.65,19,12,12,Oxidation (M),62528,Subunit II of C(O/B)3-type cytochrome c oxidase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0770 PE=3 SV=1
+93,108,sp|Q72J35|UPP_THET2,99.1,191.23,41,8,6,,22762,Uracil phosphoribosyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=upp PE=1 SV=1
+83,148,sp|Q72L76|RL20_THET2,99.0,191.01,46,7,7,,13743,50S ribosomal protein L20 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplT PE=1 SV=1
+73,136,sp|P62657|RS15_THET2,99.1,189.01,71,8,7,Oxidation (M),10554,30S ribosomal protein S15 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsO PE=1 SV=2
+19,55,sp|Q72I19|RL6_THET2,99.2,188.70,71,14,13,,19532,50S ribosomal protein L6 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplF PE=1 SV=1
+134,217,Q72LK7|Q72LK7_THET2,98.8,186.05,45,4,4,,17727,Probable nitrilotriacetate monooxygenase component B OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0052 PE=1 SV=1
+113,46,Q72L83|Q72L83_THET2,99.0,185.70,24,6,6,Formylation,36038,Aspartate-semialdehyde dehydrogenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=asd PE=3 SV=1
+206,91,Q72GT6|Q72GT6_THET2,98.4,185.59,16,4,4,,38087,Glucose-1-phosphate thymidylyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1762 PE=4 SV=1
+84,190,Q72IN6|Q72IN6_THET2,99.0,183.79,27,5,4,,34524,ABC transporter permease protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1096 PE=4 SV=1
+101,201,Q72JI9|Q72JI9_THET2,99.1,182.03,18,7,5,Oxidation (M),57439,Putative propionyl-CoA carboxylase beta chain OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0783 PE=4 SV=1
+155,188,sp|Q72JN9|THYX_THET2,96.8,181.58,14,5,3,,31007,Flavin-dependent thymidylate synthase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=thyX PE=3 SV=1
+103,102,sp|Q72LP1|GLMU_THET2,99.0,179.66,17,8,4,,48657,Bifunctional protein GlmU OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=glmU PE=3 SV=2
+171,150,Q72LF6|Q72LF6_THET2,98.6,179.33,25,4,4,Carbamidomethylation,23006,Acetoin utilization acuB protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=acuB PE=4 SV=1
+119,212,Q72IL9|Q72IL9_THET2,84.4,179.22,57,4,4,,16558,RCK C-terminal domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1113 PE=4 SV=1
+88,143,Q72LN2|Q72LN2_THET2,99.1,179.14,34,6,6,,24411,Cehydrogenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0026 PE=4 SV=1
+359,163,Q72LE4|Q72LE4_THET2,98.4,177.81,18,3,3,,35492,Homoserine dehydrogenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0115 PE=3 SV=1
+102,36,sp|Q72JM6|LON2_THET2,99.0,176.85,11,7,5,Oxidation (M); Formylation; Carbamidomethylation,90513,Lon protease 2 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=lon2 PE=3 SV=1
+33,125,sp|Q72IN1|RL13_THET2,99.1,175.21,53,12,9,Oxidation (M),15895,50S ribosomal protein L13 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplM PE=1 SV=2
+86,106,Q746P3|Q746P3_THET2,98.8,174.92,18,6,4,,43722,Precorrin-6Y C5 15-methyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0010 PE=4 SV=1
+26,141,sp|Q72JU9|RL19_THET2,99.1,172.02,43,9,8,,17181,50S ribosomal protein L19 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplS PE=1 SV=1
+97,40,Q72GU9|Q72GU9_THET2,99.1,171.59,22,6,5,Carbamidomethylation,31340,3-hydroxyisobutyrate dehydrogenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1749 PE=4 SV=1
+112,53,Q72LK6|Q72LK6_THET2,99.1,171.58,14,6,6,,69384,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0053 PE=4 SV=1
+117,88,sp|P83453|SYY_THET2,98.7,171.33,13,5,4,,48718,Tyrosine--tRNA ligase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=tyrS PE=1 SV=1
+79,92,sp|Q72J47|RPIA_THET2,99.1,170.72,42,7,7,,24039,Ribose-5-phosphate isomerase A OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpiA PE=1 SV=1
+227,58,sp|Q72KS4|LON1_THET2,99.0,169.26,12,5,5,Formylation,89312,Lon protease 1 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=lon1 PE=3 SV=1
+100,64,sp|Q72IB8|PRODH_THET2,99.0,167.80,19,6,4,,35492,Proline dehydrogenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1214 PE=1 SV=1
+23,138,sp|Q72I33|RL17_THET2,99.1,166.76,56,10,8,,13715,50S ribosomal protein L17 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplQ PE=1 SV=1
+129,107,sp|Q72GX5|PSTB_THET2,98.8,166.54,25,4,4,Oxidation (M),30488,Phosphate import ATP-binding protein PstB OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pstB PE=3 SV=1
+137,71,Q72KR0|Q72KR0_THET2,98.9,166.38,22,4,4,,33057,Metallo-beta-lactamase protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0458 PE=4 SV=1
+151,110,Q72GQ1|Q72GQ1_THET2,98.8,166.04,26,4,3,,20511,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1797 PE=4 SV=1
+57,145,sp|Q72I06|RL23_THET2,99.1,164.75,67,8,8,,10737,50S ribosomal protein L23 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplW PE=1 SV=1
+63,194,Q72JK3|Q72JK3_THET2,98.6,164.63,30,5,4,,18563,Cytochrome-c oxidase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0769 PE=4 SV=1
+47,14,Q72J03|Q72J03_THET2,99.2,164.34,31,17,15,Oxidation (M),42285,Citrate synthase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0978 PE=3 SV=1
+108,63,Q72IN7|Q72IN7_THET2,99.0,162.56,24,5,5,,33873,ABC transporter ATP-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1095 PE=4 SV=1
+69,49,sp|Q72J95|ACSA_THET2,99.1,162.15,14,9,8,,73076,Acetyl-coenzyme A synthetase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=acsA PE=3 SV=1
+475,307,Q72GS7|Q72GS7_THET2,61.7,160.43,31,2,2,Oxidation (M),12028,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1771 PE=3 SV=1
+77,157,Q72H95|Q72H95_THET2,99.0,157.29,33,7,5,,19216,Inorganic pyrophosphatase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ppa PE=3 SV=1
+435,398,sp|Q72KH8|END4_THET2,86.1,156.80,10,3,2,,29051,Endonuclease 4 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=nfo PE=1 SV=1
+124,189,sp|Q72K02|FBPAP_THET2,84.4,156.60,9,4,3,,40389,Fructose-1 6-bisphosphate aldolase/phosphatase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=fbp PE=1 SV=1
+268,193,Q72L60|Q72L60_THET2,98.6,156.34,51,3,3,,15540,Probable small heat shock protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0203 PE=3 SV=1
+75,216,Q72IL6|Q72IL6_THET2,98.8,155.61,30,6,6,,15827,Small heat shock protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1116 PE=3 SV=1
+130,140,Q72HV6|Q72HV6_THET2,98.8,154.99,27,4,4,,25984,3-oxoadipate enol-lactonase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1376 PE=4 SV=1
+269,293,Q72JD1|Q72JD1_THET2,98.6,152.63,10,3,3,,57128,(R)-citramalate synthase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0847 PE=3 SV=1
+31,31,sp|P61977|MDH_THET2,99.1,152.51,25,14,11,Oxidation (M),35426,Malate dehydrogenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=mdh PE=3 SV=1
+89,234,Q72HC8|Q72HC8_THET2,97.3,152.06,14,5,5,Oxidation (M),46713,Menaquinol-cytochrome C reductase cytochrome B subunit OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1567 PE=4 SV=1
+67,218,sp|P62238|RS16_THET2,99.0,151.38,49,6,6,,10387,30S ribosomal protein S16 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsP PE=1 SV=1
+114,38,sp|Q72HA0|SYFB_THET2,99.0,151.26,9,6,4,,86656,Phenylalanine--tRNA ligase beta subunit OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pheT PE=3 SV=1
+178,222,Q72JP2|Q72JP2_THET2,98.3,151.05,30,3,3,,17635,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0726 PE=4 SV=1
+192,221,sp|Q72KE8|IF2_THET2,99.0,150.39,9,5,5,,63178,Translation initiation factor IF-2 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=infB PE=3 SV=1
+170,121,sp|Q72L32|HEMH_THET2,98.9,149.40,15,4,4,,35651,Ferrochelatase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=hemH PE=3 SV=1
+207,232,sp|Q72I39|REX_THET2,98.4,149.07,26,5,4,,23222,Redox-sensing transcriptional repressor Rex OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rex PE=1 SV=1
+125,62,sp|Q72LI9|SYE_THET2,99.0,148.76,14,5,4,,53940,Glutamate--tRNA ligase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=gltX PE=3 SV=1
+116,68,Q72LI4|Q72LI4_THET2,99.0,148.74,20,6,6,,47917,Membrane protein insertase YidC OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=yidC PE=3 SV=1
+424,259,Q72LL5|Q72LL5_THET2,88.7,148.64,14,2,2,,42580,Deoxyguanosinetriphosphate triphosphohydrolase-like protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0044 PE=3 SV=1
+140,80,Q72GV7|Q72GV7_THET2,99.1,148.45,25,5,5,,29840,Single-stranded DNA-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1741 PE=3 SV=1
+232,90,Q72GS8|Q72GS8_THET2,98.9,147.91,16,4,4,,38647,Alanine dehydrogenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1770 PE=3 SV=1
+215,343,Q72GT2|Q72GT2_THET2,84.4,147.60,21,2,2,,20269,Hypoxanthine phosphoribosyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1766 PE=3 SV=1
+177,298,Q72GR8|Q72GR8_THET2,98.7,146.34,17,5,5,Formylation,39972,NAD/NADP transhydrogenase alpha subunit 1 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1780 PE=1 SV=1
+198,57,Q72GY3|Q72GY3_THET2,99.0,145.49,11,5,4,,58014,Metal-dependent carboxypeptidase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1715 PE=1 SV=1
+153,264,Q72GD2|Q72GD2_THET2,98.4,145.29,20,4,4,,20286,NADH-quinone oxidoreductase chain E OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1916 PE=3 SV=1
+76,174,sp|P62442|RL11_THET2,99.1,144.92,32,5,5,Oxidation (M),15505,50S ribosomal protein L11 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplK PE=1 SV=1
+360,215,sp|Q72J69|VATE_THET2,96.3,144.61,23,4,3,,20588,V-type ATP synthase subunit E OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=atpE PE=3 SV=1
+135,255,Q72I34|Q72I34_THET2,98.7,144.50,26,4,2,,18002,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1298 PE=4 SV=1
+196,117,Q72L13|Q72L13_THET2,98.8,144.31,14,4,4,Formylation,56427,Nicotinate phosphoribosyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0252 PE=3 SV=1
+205,203,Q72I62|Q72I62_THET2,98.4,144.29,18,3,3,Oxidation (M),37396,Dipeptide transport system permease protein dppB OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=dppB PE=3 SV=1
+143,75,Q72GM3|Q72GM3_THET2,98.9,141.93,8,4,4,,101032,Leucine--tRNA ligase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=leuS PE=1 SV=1
+208,199,sp|Q72JL7|FOLD_THET2,97.9,141.40,15,4,2,Carbamidomethylation,30546,Bifunctional protein FolD OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=folD PE=3 SV=1
+451,45,Q72IC1|Q72IC1_THET2,84.4,139.12,11,2,2,,46113,Glutamate dehydrogenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1211 PE=1 SV=1
+98,66,Q72IP3|Q72IP3_THET2,99.0,138.93,22,7,7,,26607,Succinate dehydrogenase iron-sulfur subunit OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1089 PE=3 SV=1
+413,503,sp|Q72L31|DCUP_THET2,95.0,137.61,14,2,2,,37784,Uroporphyrinogen decarboxylase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=hemE PE=3 SV=2
+131,130,sp|Q72L58|GATA_THET2,98.8,136.75,14,4,3,,50314,Glutamyl-tRNA(Gln) amidotransferase subunit A OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=gatA PE=3 SV=1
+80,96,Q72GJ7|Q72GJ7_THET2,99.0,136.55,22,6,4,,25028,Phosphate-specific transport system accessory protein PhoU OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=phoU PE=3 SV=1
+283,256,Q72LI1|Q72LI1_THET2,98.4,134.71,15,3,3,,27946,Branched-chain amino acid transport ATP-binding protein livG OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=livG PE=4 SV=1
+284,109,Q72HJ8|Q72HJ8_THET2,98.0,131.21,10,4,3,,47944,ABC transporter ATP-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1489 PE=3 SV=1
+503,310,Q72KM3|Q72KM3_THET2,84.4,128.80,15,2,2,,24228,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0384 PE=4 SV=1
+350,176,Q72IC3|Q72IC3_THET2,98.6,128.02,18,3,3,,24125,Putative dehydrogenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1209 PE=4 SV=1
+233,191,Q72H24|Q72H24_THET2,98.0,127.47,5,3,3,,89156,Cytochrome c oxidase polypeptide I+III OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1671 PE=3 SV=1
+294,204,Q72JQ3|Q72JQ3_THET2,98.4,126.99,31,3,3,,24393,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0715 PE=4 SV=1
+452,119,sp|Q72HA1|SYFA_THET2,84.4,125.96,11,2,2,,39249,Phenylalanine--tRNA ligase alpha subunit OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pheS PE=3 SV=1
+505,296,Q72JS3|Q72JS3_THET2,83.2,124.94,8,2,1,,49939,Magnesium transporter MgtE OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=mgtE PE=3 SV=1
+367,167,Q72IW6|Q72IW6_THET2,84.4,124.61,15,2,2,,21369,Competence protein pilO OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pilO PE=4 SV=1
+146,211,Q72IW4|Q72IW4_THET2,95.5,124.60,4,3,2,,82638,Competence protein pilQ OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pilQ PE=3 SV=1
+139,273,Q72KI3|Q72KI3_THET2,98.6,124.23,21,4,3,,22725,Acetoin utilization acuB protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=acuB PE=4 SV=1
+176,122,sp|Q72KF7|SYN_THET2,98.9,124.18,16,5,4,,50759,Asparagine--tRNA ligase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=asnS PE=3 SV=1
+133,81,sp|Q72I23|RL15_THET2,99.0,123.41,29,5,4,,16281,50S ribosomal protein L15 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplO PE=1 SV=1
+184,299,sp|Q72ID8|ARGR_THET2,82.4,123.09,15,2,1,,18143,Arginine repressor OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=argR PE=3 SV=1
+70,179,sp|P62659|RS18_THET2,98.8,121.82,40,5,5,,10231,30S ribosomal protein S18 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsR PE=1 SV=2
+91,230,Q72HC7|Q72HC7_THET2,70.6,120.92,19,3,3,,22438,Rieske iron-sulfur protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1568 PE=4 SV=1
+514,1134,Q72HC6|Q72HC6_THET2,61.7,119.97,16,1,1,,17639,Putative cytochrome c OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1569 PE=4 SV=1
+244,128,Q72II3|Q72II3_THET2,96.7,117.98,15,3,2,,48826,Adenylosuccinate lyase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1149 PE=3 SV=1
+90,182,sp|Q72G84|RL28_THET2,99.1,117.34,52,6,6,Carbamidomethylation,11006,50S ribosomal protein L28 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpmB PE=1 SV=1
+149,85,Q72GD3|Q72GD3_THET2,99.0,117.26,13,5,4,,48618,NADH-quinone oxidoreductase subunit F OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1915 PE=3 SV=1
+454,183,Q72J78|Q72J78_THET2,84.4,116.79,8,2,2,,43795,Zinc protease OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0901 PE=4 SV=1
+409,127,sp|Q72GT4|PURA_THET2,95.4,116.20,8,2,2,,44879,Adenylosuccinate synthetase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=purA PE=3 SV=1
+416,171,Q72J58|Q72J58_THET2,87.4,114.59,13,2,2,,39063,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0921 PE=4 SV=1
+166,78,Q72J50|Q72J50_THET2,98.6,114.56,11,3,3,,47751,Tail-specific protease OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0929 PE=3 SV=1
+337,382,Q72J05|Q72J05_THET2,95.5,114.26,8,2,2,,67880,Multidrug resistance ABC transporter ATP-binding and permease protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0976 PE=1 SV=1
+463,224,Q72IZ1|Q72IZ1_THET2,75.8,113.64,3,2,1,,89094,DNA gyrase subunit A OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=gyrA PE=3 SV=1
+344,104,Q72KI2|Q72KI2_THET2,93.3,113.35,6,2,2,,58583,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0478 PE=4 SV=1
+282,95,sp|Q72GF9|SYP_THET2,98.5,112.20,8,3,3,,54514,Proline--tRNA ligase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=proS PE=3 SV=1
+106,99,Q72GP6|Q72GP6_THET2,98.8,111.25,10,4,4,,45455,Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1802 PE=3 SV=1
+126,258,Q72I43|Q72I43_THET2,97.4,110.26,12,3,2,,39576,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1289 PE=4 SV=1
+132,315,Q72LJ0|Q72LJ0_THET2,84.4,110.04,23,2,2,,18012,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0069 PE=4 SV=1
+521,1135,Q72GE3|Q72GE3_THET2,84.4,109.92,10,2,2,,36288,Probable serine protease OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1905 PE=3 SV=1
+599,155,sp|Q72GY6|G6PI_THET2,61.7,109.28,7,1,1,Oxidation (M),45874,Glucose-6-phosphate isomerase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pgi PE=3 SV=2
+362,372,Q72IW8|Q72IW8_THET2,94.7,108.96,9,3,1,,41399,Pilus-associated protein pilM OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pilM PE=1 SV=1
+433,205,Q72KP3|Q72KP3_THET2,94.8,108.69,14,2,2,,23457,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0322 PE=4 SV=1
+491,147,Q72LB5|Q72LB5_THET2,95.2,108.59,6,2,2,,64813,NADP-dependent malic enzyme OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0144 PE=3 SV=1
+453,131,Q72HK0|Q72HK0_THET2,84.4,107.83,22,3,3,,27602,ABC transporter ATP-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1487 PE=3 SV=1
+277,161,Q72L39|Q72L39_THET2,90.2,107.57,12,2,2,,21367,Thiol-disulfide isomerase/thioredoxin OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0224 PE=4 SV=1
+96,313,sp|Q72I22|RL30_THET2,98.7,107.29,50,5,3,,6785,50S ribosomal protein L30 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpmD PE=1 SV=1
+173,391,Q72JT1|Q72JT1_THET2,85.0,107.06,7,2,1,,45119,Putative protease/transporter OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0687 PE=4 SV=1
+434,274,Q72IJ8|Q72IJ8_THET2,94.7,106.69,6,2,2,Oxidation (M),72532,Translation elongation and release factors (GTPases) OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1134 PE=3 SV=1
+299,192,Q72IW7|Q72IW7_THET2,84.4,106.64,16,3,3,,23036,Competence protein pilN OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pilN PE=1 SV=1
+596,375,Q72HL2|Q72HL2_THET2,61.7,105.79,14,1,1,,17287,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1475 PE=4 SV=1
+513,348,Q72IP8|Q72IP8_THET2,62.7,104.92,8,1,1,,27818,Sec-independent protein tatD OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=tatD PE=4 SV=1
+85,180,sp|P62669|RS9_THET2,98.8,104.28,27,5,4,,14402,30S ribosomal protein S9 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsI PE=1 SV=1
+240,97,Q72GL5|Q72GL5_THET2,98.4,103.40,13,3,3,,34040,Quinone oxidoreductase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1833 PE=3 SV=1
+252,1140,Q72I70|Q72I70_THET2,84.4,102.72,14,2,2,,20753,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1262 PE=4 SV=1
+152,280,sp|Q72GD5|NUOH_THET2,98.7,102.24,11,4,3,,41009,NADH-quinone oxidoreductase subunit H OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=nuoH PE=3 SV=1
+410,360,Q72KU5|Q72KU5_THET2,94.5,101.16,12,2,2,,42679,Putative exported protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0396 PE=4 SV=1
+436,1139,Q72JL3|Q72JL3_THET2,84.4,100.60,12,2,2,,17764,Biotin carboxyl carrier protein of acetyl-CoA carboxylase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0759 PE=4 SV=1
+432,324,Q72IJ4|Q72IJ4_THET2,94.9,100.42,10,2,1,,25605,Two-component response regulator OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1138 PE=4 SV=1
+588,1850,Q72IH0|Q72IH0_THET2,64.1,100.41,8,1,1,,30940,Hydroxymethylglutaryl-CoA lyase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1162 PE=3 SV=1
+301,344,sp|P62661|RS20_THET2,84.4,100.35,26,3,3,,11689,30S ribosomal protein S20 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsT PE=1 SV=2
+122,32,Q72J17|Q72J17_THET2,99.1,100.01,9,6,5,,59942,5'-nucleotidase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0964 PE=3 SV=1
+209,116,sp|Q72GE2|SYR_THET2,96.1,99.37,7,3,2,Oxidation (M),66199,Arginine--tRNA ligase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=argS PE=3 SV=1
+293,244,sp|Q72KD8|EFTS_THET2,98.4,99.34,17,3,3,,22383,Elongation factor Ts OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=tsf PE=3 SV=1
+298,132,Q72JI4|Q72JI4_THET2,84.4,99.16,12,2,2,,45018,Aminopeptidase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0788 PE=3 SV=1
+510,539,Q72HY2|Q72HY2_THET2,74.1,99.02,18,1,1,,14043,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1350 PE=4 SV=1
+141,133,Q72H68|Q72H68_THET2,99.0,98.72,9,5,4,,48119,Trehalose/maltose-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1627 PE=4 SV=1
+333,378,Q72J44|Q72J44_THET2,94.6,98.41,9,2,1,,28462,Putative transport system permease ABC transporter protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0935 PE=4 SV=1
+210,237,sp|Q72L05|CAPP_THET2,94.4,97.59,3,3,1,,96534,Phosphoenolpyruvate carboxylase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ppc PE=3 SV=1
+569,370,Q72HF5|Q72HF5_THET2,77.6,97.40,3,1,1,,100680,S-layer protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1532 PE=4 SV=1
+154,235,Q72HF7|Q72HF7_THET2,98.4,97.38,10,3,3,,37344,Peripheral subunit-binding (PSBD) domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1530 PE=3 SV=1
+408,314,sp|Q72GV5|RL9_THET2,92.8,97.13,32,2,2,Formylation,16411,50S ribosomal protein L9 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplI PE=1 SV=1
+455,337,sp|Q72I15|RL24_THET2,84.4,96.63,18,2,2,,12057,50S ribosomal protein L24 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplX PE=1 SV=1
+536,1728,sp|Q72L15|CLPP_THET2,61.7,96.21,17,1,1,,21393,ATP-dependent Clp protease proteolytic subunit OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=clpP PE=3 SV=2
+506,895,Q72IA0|Q72IA0_THET2,83.0,94.92,7,2,1,,64392,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1232 PE=4 SV=1
+185,323,Q72I91|Q72I91_THET2,78.3,94.73,5,2,1,,69598,Acylamino-acid-releasing enzyme OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1241 PE=4 SV=1
+598,377,Q72LF1|Q72LF1_THET2,61.7,94.63,11,1,1,,23559,Methyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0108 PE=4 SV=1
+584,1053,Q72K77|Q72K77_THET2,73.2,94.33,13,1,1,,22339,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0294 PE=4 SV=1
+386,283,sp|P61728|RISB_THET2,61.7,94.24,16,2,2,,16647,6 7-dimethyl-8-ribityllumazine synthase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ribH PE=3 SV=1
+241,341,sp|P62660|RS19_THET2,98.3,94.19,28,3,3,,10581,30S ribosomal protein S19 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsS PE=1 SV=2
+370,223,Q72IC0|Q72IC0_THET2,80.2,94.11,5,2,1,,44568,Glutamate dehydrogenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1212 PE=1 SV=1
+271,113,Q72H23|Q72H23_THET2,94.2,93.50,7,2,2,,37271,Cytochrome c oxidase subunit 2 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1672 PE=3 SV=1
+145,79,Q72I44|Q72I44_THET2,98.4,93.40,7,4,4,,43034,Maltose/maltodextrin-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1288 PE=1 SV=1
+95,233,sp|Q72HR3|RL27_THET2,98.7,93.10,33,6,5,,9480,50S ribosomal protein L27 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpmA PE=1 SV=3
+524,325,Q72L18|Q72L18_THET2,81.8,93.04,26,2,1,,11869,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0246 PE=4 SV=1
+407,60,sp|P61707|SYA_THET2,97.3,92.51,5,3,3,,97480,Alanine--tRNA ligase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=alaS PE=3 SV=1
+302,84,Q72HP0|Q72HP0_THET2,84.4,92.47,5,2,2,,46530,Amidase/amidotransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1446 PE=4 SV=1
+99,175,Q72KV5|Q72KV5_THET2,84.4,92.33,4,3,2,,69794,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0386 PE=4 SV=1
+457,1121,Q72HU9|Q72HU9_THET2,83.2,91.29,17,2,1,,12462,Thioredoxin OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1385 PE=1 SV=1
+300,1136,sp|Q72ID6|RPOZ_THET2,84.4,91.18,23,2,2,,11517,DNA-directed RNA polymerase subunit omega OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpoZ PE=3 SV=1
+128,491,Q72J68|Q72J68_THET2,95.6,91.04,23,3,3,,9836,V-type sodium ATP synthase subunit K Homolog OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0911 PE=3 SV=1
+204,139,sp|P61941|RS12_THET2,98.7,90.90,24,4,4,,14599,30S ribosomal protein S12 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsL PE=1 SV=2
+180,247,Q72GE0|Q72GE0_THET2,95.6,90.61,4,3,1,,49193,NADH-quinone oxidoreductase chain M OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1908 PE=3 SV=1
+423,229,Q72KI0|Q72KI0_THET2,91.7,89.58,12,2,1,,21916,Membrane metalloprotease OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0480 PE=4 SV=1
+438,206,Q72HJ4|Q72HJ4_THET2,80.3,89.45,8,2,2,,51635,Anthranilate synthase component 1 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=trpE PE=3 SV=1
+332,153,sp|Q72LB1|GCST_THET2,95.1,89.30,8,3,2,,37884,Aminomethyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=gcvT PE=3 SV=1
+251,339,Q72H03|Q72H03_THET2,84.4,89.28,15,2,2,,15599,Universal stress protein family OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1692 PE=3 SV=1
+600,200,Q72HI6|Q72HI6_THET2,61.7,89.10,4,1,1,,64062,Oligoendopeptidase F OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1501 PE=3 SV=1
+458,1233,sp|Q72GN2|ISPE_THET2,81.6,89.07,10,2,1,,29253,4-diphosphocytidyl-2-C-methyl-D-erythritol kinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ispE PE=3 SV=1
+351,98,Q72HE7|Q72HE7_THET2,98.2,88.27,6,3,3,,59101,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1540 PE=3 SV=1
+528,362,Q72J43|Q72J43_THET2,78.7,87.89,5,2,1,,53042,Probable ATP transporter  ATP-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0938 PE=4 SV=1
+597,338,Q72IX4|Q72IX4_THET2,61.7,87.68,13,1,1,,15706,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1007 PE=4 SV=1
+256,387,sp|Q72LP2|LGT_THET2,80.3,87.48,7,2,1,,32152,Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=lgt PE=3 SV=1
+368,253,Q72IU5|Q72IU5_THET2,84.4,86.87,15,2,2,,20665,CcmG protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ccmG PE=4 SV=1
+585,627,sp|P96137|ARGJ_THET2,69.8,86.68,7,1,1,,40302,Arginine biosynthesis bifunctional protein ArgJ OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=argJ PE=3 SV=2
+462,305,Q72I57|Q72I57_THET2,79.0,86.35,15,2,2,Oxidation (M),26006,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1275 PE=4 SV=1
+601,786,Q72KD5|Q72KD5_THET2,61.7,84.52,16,1,1,,20340,Phosphohydrolase (MutT/nudix family protein) OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=mutT PE=3 SV=1
+442,198,Q72IA2|Q72IA2_THET2,64.5,84.41,3,1,1,,71203,Non-specific serine/threonine protein kinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1230 PE=4 SV=1
+163,572,Q72GE1|Q72GE1_THET2,93.2,84.37,7,3,1,,44480,NADH-quinone oxidoreductase subunit N OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=nuoN PE=3 SV=1
+602,415,Q72HH2|Q72HH2_THET2,61.7,84.16,8,1,1,,29270,PhaN OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=phaN PE=4 SV=1
+242,254,Q746M3|Q746M3_THET2,97.8,83.84,16,3,2,,18856,2-dehydro-3-deoxy-phosphogluconate aldolase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0030 PE=3 SV=1
+179,245,sp|P62666|RS6_THET2,98.3,83.65,25,4,4,,11973,30S ribosomal protein S6 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsF PE=1 SV=1
+590,1760,Q72KI8|Q72KI8_THET2,62.7,82.15,17,1,1,,14799,Putative transferase/hydrolase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0487 PE=4 SV=1
+525,1212,Q72IU0|Q72IU0_THET2,81.3,81.25,12,2,1,,24017,Heme exporter protein B OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1042 PE=3 SV=1
+255,902,Q72LQ6|Q72LQ6_THET2,80.7,81.01,12,2,1,,26961,Dehydrogenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0002 PE=4 SV=1
+603,309,Q72IM1|Q72IM1_THET2,61.7,81.00,10,1,1,,31051,Periplasmic serine protease OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1111 PE=4 SV=1
+537,1133,Q72H94|Q72H94_THET2,61.7,80.87,16,1,1,,21916,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1601 PE=4 SV=1
+414,654,Q72LH9|Q72LH9_THET2,93.3,80.24,11,2,1,,30946,Branched-chain amino acid transport system permease protein livH OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=livH PE=4 SV=1
+587,1634,Q72GQ2|Q72GQ2_THET2,64.4,80.21,14,1,1,,13444,7 8-dihydroneopterin aldolase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1796 PE=3 SV=1
+243,164,sp|Q72H98|PFKA_THET2,97.5,80.01,7,3,2,,33537,ATP-dependent 6-phosphofructokinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pfkA PE=3 SV=1
+369,396,Q72I94|Q72I94_THET2,82.3,79.56,15,2,1,,11953,Robl_LC7 domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1238 PE=4 SV=1
+353,334,sp|Q72L49|Y214_THET2,77.6,79.42,15,2,1,,20957,UPF0340 protein TT_C0214 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0214 PE=1 SV=1
+340,427,Q746H9|Q746H9_THET2,77.5,78.68,11,2,1,,16632,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0076 PE=4 SV=1
+159,546,Q72L12|Q72L12_THET2,86.1,76.86,3,3,1,,130822,Methionine synthase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0253 PE=3 SV=1
+489,126,Q746D7|Q746D7_THET2,74.0,76.74,8,1,1,Oxidation (M),30848,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0118 PE=4 SV=1
+567,134,sp|Q72I53|METK_THET2,78.9,76.61,4,1,1,,43247,S-adenosylmethionine synthase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=metK PE=1 SV=2
+604,260,Q72KS0|Q72KS0_THET2,61.7,75.95,6,1,1,,24528,Short chain dehydrogenase/reductase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0410 PE=3 SV=1
+496,103,Q72JN6|Q72JN6_THET2,95.2,75.77,5,2,2,,54151,Sugar transport ATP-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0734 PE=4 SV=1
+371,284,Q72GZ5|Q72GZ5_THET2,79.5,75.64,4,2,1,,50480,Dihydrolipoyl dehydrogenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1700 PE=3 SV=1
+304,236,Q72IM0|Q72IM0_THET2,80.6,75.59,9,2,1,,40012,Na_H_Exchanger domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1112 PE=4 SV=1
+456,186,sp|Q72KH6|SYD_THET2,84.3,73.57,4,2,2,,66030,Aspartate--tRNA ligase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=aspS PE=3 SV=1
+352,69,Q72JG4|Q72JG4_THET2,95.7,73.18,5,3,2,,91965,Glycogen phosphorylase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0808 PE=3 SV=1
+461,262,Q72IX8|Q72IX8_THET2,80.3,72.99,5,2,1,,30381,Signal peptidase I OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1003 PE=3 SV=1
+303,306,Q72HD3|Q72HD3_THET2,82.2,72.49,8,2,1,,20878,Corrinoid adenosyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1560 PE=3 SV=1
+512,270,Q72G93|Q72G93_THET2,63.6,72.03,6,1,1,,31753,Acetyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1955 PE=4 SV=1
+606,468,sp|Q72JP9|MURG_THET2,61.7,71.96,7,1,1,,35974,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=murG PE=3 SV=1
+605,384,Q72JM8|Q72JM8_THET2,61.7,71.06,8,1,1,,40619,Hypothetical conserved membrane spanning protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0744 PE=4 SV=1
+607,329,Q72GS6|Q72GS6_THET2,61.7,71.01,3,1,1,,56102,Predicted kinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1772 PE=4 SV=1
+522,1143,Q72GJ1|Q72GJ1_THET2,84.4,70.00,17,2,2,,13145,Translation initiation inhibitor OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1857 PE=3 SV=1
+577,158,sp|Q72H75|GATB_THET2,73.3,69.97,4,1,1,,52264,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=gatB PE=3 SV=1
+415,142,Q72G73|Q72G73_THET2,93.1,69.59,5,2,1,,76800,Endopeptidase La OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1975 PE=3 SV=1
+339,1258,Q72I40|Q72I40_THET2,77.6,69.43,12,2,1,,15871,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1292 PE=4 SV=1
+538,1851,Q72GI0|Q72GI0_THET2,61.7,69.15,22,1,1,,9241,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1868 PE=4 SV=1
+305,1242,Q72IK2|Q72IK2_THET2,80.5,69.00,6,2,1,,32840,Putative protease IV transmembrane protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1130 PE=3 SV=1
+276,196,sp|Q72HM1|RNY_THET2,92.9,68.02,8,3,1,,64623,Ribonuclease Y OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rny PE=3 SV=1
+188,416,sp|Q72H22|COXX_THET2,78.1,67.24,3,2,1,,65771,Protoheme IX farnesyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ctaB PE=3 SV=1
+216,321,sp|Q72I12|RL29_THET2,84.3,65.57,24,2,2,,8650,50S ribosomal protein L29 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpmC PE=1 SV=1
+389,300,sp|Q72L77|RL35_THET2,61.7,64.42,17,2,2,,7484,50S ribosomal protein L35 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpmI PE=1 SV=3
+425,74,Q72GB8|Q72GB8_THET2,87.8,63.80,1,2,2,,198664,Ribonucleoside-diphosphate reductase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1930 PE=3 SV=1
+193,15,Q72J15|Q72J15_THET2,97.7,63.59,6,3,2,,41634,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0966 PE=3 SV=1
+280,364,Q72I98|Q72I98_THET2,83.4,63.47,4,2,0,,30537,Delta-aminolevulinic acid dehydratase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1234 PE=3 SV=1
+608,210,Q72G79|Q72G79_THET2,61.7,63.30,5,1,1,Oxidation (M),35855,Oxidoreductase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1969 PE=3 SV=1
+540,170,sp|Q72LH1|AROA_THET2,61.7,63.24,3,1,1,,46112,3-phosphoshikimate 1-carboxyvinyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=aroA PE=3 SV=1
+476,585,Q72GF8|Q72GF8_THET2,61.7,63.11,4,1,1,,64953,ABC transporter ATP-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1890 PE=4 SV=1
+539,287,sp|Q72G72|GLGC_THET2,61.7,62.91,4,1,1,,47195,Glucose-1-phosphate adenylyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=glgC PE=3 SV=1
+341,829,Q72HX3|Q72HX3_THET2,75.0,60.40,14,1,1,,8563,SHOCT domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1359 PE=4 SV=1
+341,1155,Q72HW0|Q72HW0_THET2,61.7,60.40,13,1,1,,9365,SHOCT domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1372 PE=4 SV=1
+110,383,Q72JJ4|Q72JJ4_THET2,94.9,60.35,4,6,1,,106033,Sensory transduction histidine kinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0778 PE=4 SV=1
+609,388,sp|Q72LM0|PANB_THET2,61.7,59.62,8,1,1,,28270,3-methyl-2-oxobutanoate hydroxymethyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=panB PE=3 SV=2
+610,263,Q72GE7|Q72GE7_THET2,61.7,59.50,6,1,1,,30314,2-nitropropane dioxygenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1901 PE=4 SV=1
+406,220,Q746P1|Q746P1_THET2,94.5,58.94,8,2,1,,26002,Precorrin-4 C11-methyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0012 PE=3 SV=1
+123,340,sp|Q72IH5|TRMN_THET2,97.5,58.05,7,4,1,Formylation,36980,tRNA (guanine(6)-N2)-methyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=trmN PE=1 SV=1
+387,380,Q72IF5|Q72IF5_THET2,61.7,57.81,7,1,1,,15393,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1177 PE=4 SV=1
+507,288,Q72H50|Q72H50_THET2,79.1,56.42,14,2,2,,26920,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1645 PE=3 SV=1
+218,1316,Q72IP0|Q72IP0_THET2,78.0,56.30,14,2,1,,13711,Succinate dehydrogenase membrane anchor subunit OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1092 PE=4 SV=1
+523,214,Q72GB7|Q72GB7_THET2,84.0,56.27,3,2,2,,92789,DNA topoisomerase 1 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=topA PE=3 SV=1
+307,187,Q72GS0|Q72GS0_THET2,78.5,56.04,3,2,1,,47336,NAD(P) transhydrogenase subunit beta OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1778 PE=1 SV=1
+219,465,#DECOY#sp|Q72IK9|CLPB_THET2,77.0,56.03,3,5,0,,96140,Chaperone protein ClpB OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=clpB PE=3 SV=1
+613,1732,Q72H02|Q72H02_THET2,61.7,55.89,6,1,1,,18431,Putative Rossmann fold nucleotide-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1693 PE=4 SV=1
+589,399,Q72J01|Q72J01_THET2,63.8,55.57,4,1,1,,28020,Mannose-6-phosphate isomerase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0980 PE=4 SV=1
+611,1151,Q72JL5|Q72JL5_THET2,61.7,55.04,25,1,1,,12071,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0757 PE=3 SV=1
+477,168,Q72GG2|Q72GG2_THET2,61.7,54.72,3,1,1,,35135,Exopolyphosphatase family protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1886 PE=4 SV=1
+422,173,sp|Q72J62|Y917_THET2,94.6,54.25,7,2,2,,24183,UPF0173 metal-dependent hydrolase TT_C0917 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0917 PE=3 SV=1
+388,266,sp|Q72I11|RL16_THET2,61.7,53.97,6,1,1,,15947,50S ribosomal protein L16 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplP PE=1 SV=1
+541,1137,Q72I75|Q72I75_THET2,61.7,53.92,9,1,1,,17461,Small heat shock protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1257 PE=3 SV=1
+586,67,sp|Q72L85|SYG_THET2,69.4,53.19,2,1,1,,58272,Glycine--tRNA ligase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=glyQS PE=3 SV=1
+363,556,sp|Q72L21|BIOB_THET2,94.4,51.95,5,3,0,,36330,Biotin synthase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=bioB PE=3 SV=1
+160,686,#DECOY#Q72L63|Q72L63_THET2,5.2,51.50,1,4,0,,284946,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0200 PE=4 SV=1
+157,648,#DECOY#Q72L33|Q72L33_THET2,93.3,51.34,5,5,0,Oxidation (M),49201,Coproporphyrinogen III oxidase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0230 PE=3 SV=1
+612,1088,Q72I41|Q72I41_THET2,61.7,51.28,11,1,1,,34828,Octaprenyl-diphosphate synthase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1291 PE=3 SV=1
+542,1857,Q72HK6|Q72HK6_THET2,61.7,51.10,11,1,1,,11326,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1481 PE=4 SV=1
+260,1015,Q72IM8|Q72IM8_THET2,71.3,51.01,2,5,1,Formylation,162989,Glutamate synthase [NADPH] large chain OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1104 PE=3 SV=1
+346,460,#DECOY#Q72IG4|Q72IG4_THET2,77.6,50.71,2,2,0,,65314,Putative oligoendopeptidase F protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1168 PE=3 SV=1
+460,1608,#DECOY#Q72IL8|Q72IL8_THET2,80.4,50.45,7,2,0,,16946,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1114 PE=4 SV=1
+156,584,Q72GJ8|Q72GJ8_THET2,96.1,50.32,7,4,0,,33032,Phosphate regulon transcriptional regulatory protein phoB OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=phoB PE=4 SV=1
+203,3538,Q72L63|Q72L63_THET2,2.4,49.37,1,5,0,Formylation,284946,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0200 PE=4 SV=1
+614,1862,Q72G85|Q72G85_THET2,61.7,48.99,28,1,1,Oxidation (M); Formylation,16132,Lipoprotein signal peptidase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=lspA PE=3 SV=1
+127,611,#DECOY#Q72KF9|Q72KF9_THET2,91.1,48.51,3,4,0,,71815,Cation-transporting ATPase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0354 PE=3 SV=1
+270,184,Q72GD9|Q72GD9_THET2,96.1,48.38,5,3,2,Oxidation (M); Formylation,65145,NADH-quinone oxidoreductase chain L OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1909 PE=3 SV=1
+118,265,Q72LF9|Q72LF9_THET2,92.6,48.21,4,4,0,,49831,Oligopeptide transport system permease protein appC OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=appC PE=3 SV=1
+217,793,Q72I50|Q72I50_THET2,80.0,47.97,3,4,0,,82502,Endonuclease MutS2 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=mutS PE=3 SV=1
+194,571,Q72L54|Q72L54_THET2,92.9,47.90,4,4,1,,61925,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0209 PE=4 SV=1
+459,292,Q72L00|Q72L00_THET2,80.9,47.90,7,2,1,,19707,ATP-dependent protease hslV OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=hslV PE=3 SV=1
+162,659,Q72HT9|Q72HT9_THET2,94.2,47.75,9,4,1,Formylation,58653,Putative response regulator protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1397 PE=4 SV=1
+275,411,Q72IG3|Q72IG3_THET2,96.6,47.59,7,3,2,Formylation,35197,Probable DNA-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1169 PE=4 SV=1
+199,924,#DECOY#Q72JG9|Q72JG9_THET2,83.8,47.46,2,3,0,,72861,Single-stranded-DNA-specific exonuclease RecJ OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ecJ PE=3 SV=1
+120,412,Q72JH8|Q72JH8_THET2,93.9,47.31,3,3,0,,69506,Hypothetical membrane spanning protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0794 PE=4 SV=1
+615,394,Q72KW1|Q72KW1_THET2,61.7,47.15,5,1,1,,56680,Gamma-glutamyltranspeptidase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0403 PE=4 SV=1
+349,1566,#DECOY#Q746C5|Q746C5_THET2,47.3,47.02,1,3,1,,194401,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0130 PE=4 SV=1
+390,83,Q72IC7|Q72IC7_THET2,61.7,46.86,3,1,1,,38259,Deoxyhypusine synthase-like protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1205 PE=3 SV=1
+187,774,Q72HT6|Q72HT6_THET2,78.3,46.68,3,2,0,,36791,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1400 PE=4 SV=1
+250,923,#DECOY#Q72LK6|Q72LK6_THET2,85.5,46.33,2,3,0,,69384,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0053 PE=4 SV=1
+526,297,sp|P62663|RS3_THET2,80.4,46.32,5,2,1,,26701,30S ribosomal protein S3 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsC PE=1 SV=2
+361,371,sp|P61500|RECA_THET2,96.1,45.80,5,3,0,,36342,Protein RecA OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=recA PE=3 SV=1
+616,225,Q746A9|Q746A9_THET2,61.7,45.77,3,1,1,,46023,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0146 PE=4 SV=1
+148,514,#DECOY#Q72IH4|Q72IH4_THET2,91.6,45.76,3,3,0,,59328,Predicted GTPase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1158 PE=4 SV=1
+235,770,#DECOY#Q72GW9|Q72GW9_THET2,91.0,45.62,3,3,0,,56096,Probable cytosol aminopeptidase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pepA PE=3 SV=1
+246,722,Q745Y8|Q745Y8_THET2,92.4,45.15,4,3,0,,45725,Hypothetical membrane associated protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0167 PE=4 SV=1
+428,1293,Q72KK7|Q72KK7_THET2,61.2,45.12,2,3,0,,94133,Pyruvate  orthophosphate dikinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0304 PE=3 SV=1
+111,400,Q72H38|Q72H38_THET2,93.9,45.08,4,3,0,,40226,Putative ATP/GTP-binding integral membrane protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1657 PE=4 SV=1
+202,356,Q72KN4|Q72KN4_THET2,48.3,45.07,1,3,0,,117193,Acriflavin resistance protein B OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0377 PE=4 SV=1
+169,1372,#DECOY#Q72KF1|Q72KF1_THET2,71.2,44.94,2,3,0,,95161,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0344 PE=4 SV=1
+138,588,#DECOY#Q72KF0|Q72KF0_THET2,88.8,44.94,2,3,0,,79678,Multifunctional fusion protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=secD PE=3 SV=1
+309,1073,#DECOY#Q72JX9|Q72JX9_THET2,77.5,44.72,2,3,0,,81798,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0639 PE=4 SV=1
+617,231,Q72JY8|Q72JY8_THET2,61.6,44.60,4,1,1,,32647,Putative fructokinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0630 PE=4 SV=1
+492,285,sp|Q72JR7|TAL_THET2,94.3,44.46,8,2,1,,24093,Probable transaldolase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=tal PE=3 SV=1
+158,741,#DECOY#Q72HN1|Q72HN1_THET2,89.2,44.45,3,3,0,,52638,Transporter OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1455 PE=3 SV=1
+182,569,Q746N8|Q746N8_THET2,91.9,44.00,4,3,0,,43900,CbiX protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=cbiX PE=4 SV=1
+238,850,#DECOY#Q72KQ7|Q72KQ7_THET2,85.3,43.86,2,3,0,,68333,DNA polymerase III epsilon chain-like protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0461 PE=4 SV=1
+195,579,#DECOY#Q72HJ4|Q72HJ4_THET2,92.7,43.66,4,3,1,,51635,Anthranilate synthase component 1 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=trpE PE=3 SV=1
+372,319,Q72H67|Q72H67_THET2,79.5,43.56,7,2,1,,32564,Maltose transport system permease protein malF OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=malF PE=3 SV=1
+181,642,#DECOY#Q72LC0|Q72LC0_THET2,93.8,43.52,5,3,0,,33086,Sodium bicarbonate cotransporter OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0139 PE=4 SV=1
+392,1496,Q72KS6|Q72KS6_THET2,60.1,43.39,2,2,0,,47043,Tripartite transporter  large subunit OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0416 PE=4 SV=1
+450,887,Q72JC9|Q72JC9_THET2,88.2,43.21,3,3,0,,57440,2-isopropylmalate synthase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=leuA PE=3 SV=1
+296,583,#DECOY#Q72KM4|Q72KM4_THET2,94.4,43.19,5,3,0,,30971,Dihydrodipicolinate synthase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0385 PE=3 SV=1
+259,1092,#DECOY#Q72HX8|Q72HX8_THET2,73.6,43.14,2,3,0,,81863,Hypothetical cytosolic protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1354 PE=4 SV=1
+498,2017,#DECOY#Q72GP2|Q72GP2_THET2,11.1,43.06,0,2,0,,229842,DNA-directed DNA polymerase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1806 PE=4 SV=1
+245,550,Q72K44|Q72K44_THET2,95.0,42.65,6,3,0,,27893,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0574 PE=4 SV=1
+172,393,Q72G97|Q72G97_THET2,88.9,42.53,3,3,0,,58056,ATP-dependent DNA helicase recG-related protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=recG PE=4 SV=1
+527,178,Q72GC1|Q72GC1_THET2,80.0,42.49,5,2,1,,26348,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1927 PE=4 SV=1
+253,946,#DECOY#Q72IK4|Q72IK4_THET2,83.4,42.23,2,3,0,,68453,ATP-dependent zinc metalloprotease FtsH OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ftsH PE=3 SV=1
+183,888,#DECOY#Q72LI7|Q72LI7_THET2,90.3,42.20,3,3,0,,49527,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0072 PE=4 SV=1
+535,798,#DECOY#Q746N9|Q746N9_THET2,64.4,42.13,3,2,0,,38716,CbiG protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=cbiG PE=4 SV=1
+234,581,#DECOY#Q72K84|Q72K84_THET2,91.3,42.13,4,3,0,,42713,Na(+)/H(+) antiporter OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0563 PE=4 SV=1
+211,658,#DECOY#Q72KH0|Q72KH0_THET2,94.2,42.12,5,3,0,,31735,Molybdate-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0365 PE=3 SV=1
+165,1029,#DECOY#Q746B7|Q746B7_THET2,79.2,42.10,2,3,1,,113613,Sulfur carrier protein FdhD OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=fdhD PE=3 SV=1
+164,695,#DECOY#Q72LQ4|Q72LQ4_THET2,86.9,42.01,3,3,0,,47663,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0004 PE=4 SV=1
+306,1065,#DECOY#Q72JD3|Q72JD3_THET2,79.6,41.72,4,2,0,,37433,ABC transporter ATP-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0843 PE=4 SV=1
+317,1193,#DECOY#Q72KI1|Q72KI1_THET2,66.8,41.66,2,3,0,,88667,tRNA nucleotidyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0479 PE=3 SV=1
+295,592,#DECOY#Q72LC7|Q72LC7_THET2,95.0,41.63,6,3,0,,26614,Probable transcriptional regulator  merR family OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=merR PE=4 SV=1
+212,679,#DECOY#Q72HS9|Q72HS9_THET2,89.8,41.62,3,3,0,,52219,S-layer protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1407 PE=4 SV=1
+247,590,#DECOY#Q72HX7|Q72HX7_THET2,91.6,41.46,3,3,1,Formylation,82509,Guanosine-3' 5'-bis(Diphosphate) 3'-pyrophosphohydrolase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1355 PE=3 SV=1
+543,747,Q72K60|Q72K60_THET2,61.5,41.45,2,1,1,,59655,Sodium/proline symporter OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0467 PE=3 SV=1
+552,443,Q72JZ9|Q72JZ9_THET2,56.4,41.44,2,2,0,,52642,L-aspartate oxidase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0619 PE=3 SV=1
+471,766,Q72JP1|Q72JP1_THET2,64.8,41.37,3,2,0,,42236,Cyclic dehypoxanthine futalosine synthase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=mqnC PE=3 SV=1
+336,1320,Q72J84|Q72J84_THET2,70.1,41.28,2,3,0,,95787,Guanylate cyclase domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0895 PE=4 SV=1
+364,505,#DECOY#Q72KU9|Q72KU9_THET2,93.8,41.11,6,3,0,,26972,Iron(III) dicitrate transport ATP-binding protein fecE OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=fecE PE=4 SV=1
+439,542,#DECOY#sp|Q72H22|COXX_THET2,73.0,41.10,2,2,0,,65771,Protoheme IX farnesyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ctaB PE=3 SV=1
+249,897,Q746M9|Q746M9_THET2,86.2,41.05,3,3,0,,54718,Alkaline phosphatase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0024 PE=3 SV=1
+214,726,Q72GE4|Q72GE4_THET2,88.8,41.01,3,3,0,,51737,UDP-N-acetylmuramyl-tripeptide synthetase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=murE PE=3 SV=1
+248,471,#DECOY#Q746K5|Q746K5_THET2,88.3,40.99,3,3,0,,54888,Nucleoside-diphosphate-sugar epimerase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0048 PE=4 SV=1
+221,2083,#DECOY#Q72JN0|Q72JN0_THET2,56.7,40.79,2,2,0,,50767,Hypothetical conserved membrane spanning protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0742 PE=4 SV=1
+285,960,#DECOY#Q72I62|Q72I62_THET2,93.4,40.58,10,3,1,,37396,Dipeptide transport system permease protein dppB OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=dppB PE=3 SV=1
+201,1095,#DECOY#Q746A1|Q746A1_THET2,58.7,40.22,2,2,0,,59163,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0154 PE=4 SV=1
+366,1562,Q72L37|Q72L37_THET2,89.5,40.00,4,3,0,,37657,Galactokinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0226 PE=4 SV=1
+310,1197,#DECOY#Q72KR9|Q72KR9_THET2,77.4,39.96,2,3,0,,75050,Sensory transduction histidine kinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0422 PE=4 SV=1
+520,1176,#DECOY#sp|Q72J92|SECA_THET2,31.1,39.93,1,2,0,,113939,Protein translocase subunit SecA OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=secA PE=3 SV=1
+213,2063,#DECOY#sp|P62360|HISZ_THET2,89.2,39.92,4,3,0,,40053,ATP phosphoribosyltransferase regulatory subunit OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=hisZ PE=3 SV=1
+230,558,#DECOY#Q72HU5|Q72HU5_THET2,75.4,39.58,3,2,0,,38347,Putative glycosyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1389 PE=4 SV=1
+572,866,Q72HX9|Q72HX9_THET2,66.3,39.47,4,1,1,,32679,Mechanosensitive ion channel OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1353 PE=3 SV=1
+186,511,Q72I67|Q72I67_THET2,78.3,39.45,7,2,1,,55438,Iron(III)-transport system permease protein sfuB OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=sfuB PE=3 SV=1
+618,1853,Q72LJ2|Q72LJ2_THET2,61.6,39.32,21,1,1,Oxidation (M),15850,Disulfide bond formation protein B OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0067 PE=3 SV=1
+297,351,Q72KJ4|Q72KJ4_THET2,89.4,39.17,3,3,0,,48370,Pili assembly protein pilC OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pilC PE=3 SV=1
+550,801,Q72L33|Q72L33_THET2,57.6,39.08,2,2,0,,49201,Coproporphyrinogen III oxidase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0230 PE=3 SV=1
+147,497,Q72JA2|Q72JA2_THET2,91.7,39.04,4,3,0,,38634,Peptidoglycan glycosyltransferase RodA OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rodA PE=3 SV=1
+224,248,sp|Q72KU3|PYRD_THET2,88.4,38.85,3,2,0,,37862,Dihydroorotate dehydrogenase (quinone) OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pyrD PE=3 SV=1
+224,1446,Q72IA3|Q72IA3_THET2,73.1,38.85,5,2,0,,25019,Probable two-component response regulator OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1229 PE=4 SV=1
+357,1037,Q72J86|Q72J86_THET2,52.7,38.66,1,2,0,,80935,Probable ATP-dependent helicase lhr OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0893 PE=4 SV=1
+324,1322,Q72HK1|Q72HK1_THET2,57.2,38.65,2,3,0,,101705,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1486 PE=4 SV=1
+254,709,#DECOY#Q72JF3|Q72JF3_THET2,81.6,38.34,3,3,1,,75924,Penicillin-insensitive transglycosylase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0819 PE=4 SV=1
+223,533,#DECOY#Q72HK1|Q72HK1_THET2,85.8,38.32,2,3,1,,101705,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1486 PE=4 SV=1
+319,480,#DECOY#Q746J3|Q746J3_THET2,66.5,38.24,3,2,0,,37281,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0062 PE=4 SV=1
+236,837,#DECOY#Q746P8|Q746P8_THET2,89.8,38.22,4,2,0,,25069,Adenosylcobinamide-GDP ribazoletransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=cobS PE=3 SV=1
+532,1426,#DECOY#Q72JM9|Q72JM9_THET2,70.4,38.22,5,2,0,,22976,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0743 PE=4 SV=1
+168,1219,Q746F3|Q746F3_THET2,72.0,38.06,1,2,0,,90249,CRISPR system single-strand-specific deoxyribonuclease Cas10/Csm1 (subtype III-A) OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0102 PE=3 SV=1
+325,1389,#DECOY#Q72JY9|Q72JY9_THET2,56.2,38.04,2,3,0,,101323,HD-hydrolase domain OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0629 PE=4 SV=1
+619,336,Q746F1|Q746F1_THET2,61.5,37.97,4,1,1,,27348,CRISPR system Cms endoribonuclease Csm3 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0104 PE=3 SV=1
+365,567,#DECOY#Q72GM8|Q72GM8_THET2,92.3,37.93,6,3,0,,27278,Cyanophycinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1820 PE=4 SV=1
+375,440,#DECOY#sp|Q72KF8|PDXT_THET2,74.3,37.79,5,2,0,,21078,Pyridoxal 5'-phosphate synthase subunit PdxT OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pdxT PE=3 SV=1
+334,652,#DECOY#sp|Q72ID8|ARGR_THET2,89.4,37.63,6,2,0,,18143,Arginine repressor OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=argR PE=3 SV=1
+175,413,Q72L01|Q72L01_THET2,75.1,37.62,3,2,0,,46513,ATP-dependent hsl protease ATP-binding subunit hslU OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=hslU PE=3 SV=1
+500,702,#DECOY#Q72L56|Q72L56_THET2,88.0,37.59,3,2,0,,39307,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0207 PE=4 SV=1
+288,750,#DECOY#Q72GE0|Q72GE0_THET2,83.1,37.37,2,2,0,,49193,NADH-quinone oxidoreductase chain M OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1908 PE=3 SV=1
+262,535,#DECOY#Q72LM1|Q72LM1_THET2,66.0,37.34,3,2,0,,38137,DUF4388 domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0037 PE=4 SV=1
+326,441,Q72K86|Q72K86_THET2,56.0,37.31,2,2,0,,54200,Bifunctional purine biosynthesis protein PurH OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=purH PE=3 SV=1
+518,644,#DECOY#Q72IC8|Q72IC8_THET2,38.6,37.29,1,2,0,,102846,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1204 PE=4 SV=1
+257,2065,Q72HP6|Q72HP6_THET2,78.2,37.28,9,2,0,,11486,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1440 PE=3 SV=1
+267,1149,#DECOY#Q72L12|Q72L12_THET2,51.4,37.28,1,2,0,,130822,Methionine synthase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0253 PE=3 SV=1
+279,389,Q72KV3|Q72KV3_THET2,85.5,37.27,3,2,0,,35615,Histidine kinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0388 PE=4 SV=1
+321,475,Q72HC2|Q72HC2_THET2,62.5,37.15,3,2,0,,44095,Glycerol-3-phosphate-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1573 PE=4 SV=1
+313,576,#DECOY#Q72J44|Q72J44_THET2,69.6,37.09,4,2,0,,28462,Putative transport system permease ABC transporter protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0935 PE=4 SV=1
+312,1497,#DECOY#Q72K18|Q72K18_THET2,70.8,37.07,4,2,0,,25925,Branched-chain amino acid transport ATP-binding protein livF OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=livF PE=4 SV=1
+266,1776,#DECOY#Q72IW4|Q72IW4_THET2,75.3,37.03,1,2,1,,82638,Competence protein pilQ OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pilQ PE=3 SV=1
+308,409,#DECOY#sp|Q746B8|PXPA_THET2,78.2,37.02,4,2,0,,26780,5-oxoprolinase subunit A OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pxpA PE=3 SV=1
+258,1351,Q72L75|Q72L75_THET2,75.7,36.99,6,2,0,,16513,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0186 PE=4 SV=1
+417,1210,#DECOY#Q72IZ1|Q72IZ1_THET2,67.6,36.95,1,2,0,,89094,DNA gyrase subunit A OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=gyrA PE=3 SV=1
+620,692,Q72G88|Q72G88_THET2,61.5,36.90,3,1,1,,42095,Aminotransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1960 PE=3 SV=1
+220,516,#DECOY#Q72HL8|Q72HL8_THET2,70.3,36.82,4,2,0,,28356,Aminomethyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1469 PE=4 SV=1
+220,1573,#DECOY#Q72J29|Q72J29_THET2,41.1,36.82,1,2,0,,75924,Transporter OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0952 PE=4 SV=1
+329,864,#DECOY#Q72IE0|Q72IE0_THET2,49.0,36.80,2,2,0,,60723,Propionyl-CoA carboxylase beta chain OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1192 PE=4 SV=1
+328,713,#DECOY#Q72HA7|Q72HA7_THET2,53.5,36.77,2,2,0,,58173,DNA polymerase III subunit gamma/tau OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=dnaX PE=3 SV=1
+464,269,Q72JC6|Q72JC6_THET2,74.1,36.52,2,2,1,,60990,Acetolactate synthase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0852 PE=3 SV=1
+278,1173,Q72JD4|Q72JD4_THET2,89.9,36.31,4,2,0,,29827,ABC transporter permease protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0842 PE=4 SV=1
+174,385,#DECOY#sp|Q72GY6|G6PI_THET2,81.7,36.23,3,2,1,,45874,Glucose-6-phosphate isomerase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pgi PE=3 SV=2
+402,1228,#DECOY#sp|Q72KS4|LON1_THET2,34.8,36.19,1,2,0,,89312,Lon protease 1 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=lon1 PE=3 SV=1
+311,1405,Q72GM5|Q72GM5_THET2,74.1,36.15,6,2,0,,18427,t(6)A37 threonylcarbamoyladenosine biosynthesis protein TsaE OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1823 PE=3 SV=1
+316,328,Q72KQ9|Q72KQ9_THET2,67.9,36.10,3,2,0,,31038,Phosphoribosylglycinamide formyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=purN PE=3 SV=1
+318,641,sp|Q72IA9|DDL_THET2,66.6,36.09,3,2,0,,34700,D-alanine--D-alanine ligase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ddl PE=3 SV=1
+374,526,#DECOY#sp|P62381|HIS1_THET2,75.1,36.07,6,2,0,,22381,ATP phosphoribosyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=hisG PE=1 SV=1
+327,676,#DECOY#Q72JG3|Q72JG3_THET2,55.6,36.02,2,2,0,,52715,Trk system potassium uptake protein trkG OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=trkG PE=4 SV=1
+261,466,#DECOY#Q72HZ2|Q72HZ2_THET2,69.9,35.93,4,2,0,,28351,DUF4388 domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1340 PE=4 SV=1
+395,643,#DECOY#sp|Q72LH1|AROA_THET2,59.1,35.89,2,2,0,,46112,3-phosphoshikimate 1-carboxyvinyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=aroA PE=3 SV=1
+263,1661,#DECOY#Q72JT4|Q72JT4_THET2,65.8,35.81,3,2,0,,36772,PhoH protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=phoH PE=4 SV=1
+401,2843,#DECOY#Q72JW1|Q72JW1_THET2,48.0,35.81,2,2,0,,65941,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0657 PE=4 SV=1
+480,525,#DECOY#Q72I37|Q72I37_THET2,57.3,35.66,2,2,0,,48886,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1295 PE=4 SV=1
+501,365,Q72KX0|Q72KX0_THET2,87.4,35.63,3,2,0,,40987,Acetyl-CoA acetyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0330 PE=3 SV=1
+320,690,Q72LC2|Q72LC2_THET2,62.8,35.57,3,2,0,,40027,N5-carboxyaminoimidazole ribonucleotide synthase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=purK PE=3 SV=1
+484,543,Q72LM3|Q72LM3_THET2,46.1,35.45,2,2,0,,68588,ATP-dependent zinc metalloprotease FtsH OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ftsH PE=3 SV=1
+331,2481,Q72KY3|Q72KY3_THET2,48.7,35.26,2,2,0,,66054,Asparagine synthetase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0282 PE=4 SV=1
+531,2130,#DECOY#Q746J5|Q746J5_THET2,70.6,35.25,4,2,0,,26020,Hypothetical conserved membrane protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0060 PE=4 SV=1
+136,1165,#DECOY#Q72KY4|Q72KY4_THET2,57.3,35.20,2,2,0,,50596,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0281 PE=4 SV=1
+330,651,#DECOY#Q72KY3|Q72KY3_THET2,48.8,35.10,2,2,0,,66054,Asparagine synthetase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0282 PE=4 SV=1
+529,352,Q72JB9|Q72JB9_THET2,74.3,35.06,6,2,0,,19359,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0859 PE=4 SV=1
+383,1057,#DECOY#Q72K07|Q72K07_THET2,63.5,35.06,3,2,0,,38542,Sugar transport ATP-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0611 PE=4 SV=1
+289,470,#DECOY#Q72HH4|Q72HH4_THET2,77.2,35.03,3,2,1,,41233,Sugar-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1513 PE=4 SV=1
+446,1988,#DECOY#Q72KV5|Q72KV5_THET2,56.3,35.01,2,2,0,,69794,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0386 PE=4 SV=1
+499,884,#DECOY#Q72GC1|Q72GC1_THET2,88.8,34.90,4,2,0,,26348,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1927 PE=4 SV=1
+373,369,Q72J40|Q72J40_THET2,76.4,34.86,9,2,0,,11969,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0941 PE=4 SV=1
+449,602,#DECOY#sp|Q72IA8|PTH_THET2,92.9,34.83,10,3,1,,20179,Peptidyl-tRNA hydrolase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pth PE=3 SV=1
+226,706,#DECOY#Q72KP5|Q72KP5_THET2,90.8,34.83,3,2,0,,45956,Sugar transport protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0320 PE=4 SV=1
+231,1048,#DECOY#Q72HW1|Q72HW1_THET2,65.5,34.82,1,2,0,,73924,Copper-exporting ATPase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1371 PE=3 SV=1
+291,1063,Q72JZ1|Q72JZ1_THET2,57.6,34.81,1,2,0,,82088,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0627 PE=4 SV=1
+467,469,Q72LB2|Q72LB2_THET2,70.6,34.81,2,2,0,,63905,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0147 PE=4 SV=1
+322,545,Q72G86|Q72G86_THET2,62.1,34.70,3,2,0,,41656,Trk system potassium uptake protein trkA OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=trkA PE=4 SV=1
+191,1005,Q72KM6|Q72KM6_THET2,57.0,34.64,2,2,0,,49642,Probable hemolysin-related protein/CBS domain containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0382 PE=3 SV=1
+200,402,#DECOY#Q72IV2|Q72IV2_THET2,76.7,34.64,4,2,0,,27520,DUF4388 domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1029 PE=4 SV=1
+437,991,sp|Q60050|PROB_THET2,84.1,34.61,3,2,0,,39890,Glutamate 5-kinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=proB PE=3 SV=2
+530,506,#DECOY#Q745S8|Q745S8_THET2,71.0,34.56,4,2,0,,26054,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0229 PE=4 SV=1
+549,1013,sp|Q72H18|ISPG_THET2,57.8,34.54,2,2,0,,44217,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin) OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ispG PE=1 SV=1
+398,2009,#DECOY#sp|Q72J73|VATB_THET2,55.5,34.52,2,2,1,,53160,V-type ATP synthase beta chain OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=atpB PE=3 SV=1
+404,1357,Q746C3|Q746C3_THET2,33.9,34.50,1,2,0,,88080,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0132 PE=3 SV=1
+468,1019,Q72G83|Q72G83_THET2,69.9,34.47,4,2,0,,25341,Membrane protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1965 PE=4 SV=1
+229,1106,Q72KF9|Q72KF9_THET2,76.0,34.47,1,2,0,,71815,Cation-transporting ATPase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0354 PE=3 SV=1
+323,762,#DECOY#Q72J90|Q72J90_THET2,57.6,34.39,2,2,0,,46981,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0889 PE=4 SV=1
+378,564,#DECOY#Q72H62|Q72H62_THET2,67.8,34.31,4,2,0,,28054,Usp domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1633 PE=3 SV=1
+286,561,#DECOY#sp|Q72JK8|SPEBH_THET2,86.2,34.03,3,2,0,,32454,N(1)-aminopropylagmatine ureohydrolase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0764 PE=1 SV=1
+286,961,#DECOY#sp|Q72KV2|LEPA_THET2,45.8,34.03,2,2,0,,67711,Elongation factor 4 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=lepA PE=3 SV=1
+355,593,#DECOY#Q72H07|Q72H07_THET2,66.9,34.02,4,2,1,,31479,Glucokinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1688 PE=4 SV=1
+347,1297,Q72H73|Q72H73_THET2,63.9,34.01,1,2,0,,98213,ATP-binding motif-containing protein pilF OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pilF PE=3 SV=1
+621,518,Q72LN4|Q72LN4_THET2,60.9,33.93,20,1,1,,14084,Probable methylmalonyl-coA epimerase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=coA PE=3 SV=1
+486,129,sp|Q72JJ7|RNJ_THET2,86.2,33.92,2,1,1,,64031,Ribonuclease J OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rnj PE=1 SV=1
+472,599,Q72HU4|Q72HU4_THET2,64.0,33.91,3,2,0,,37451,Putative mannosyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1390 PE=4 SV=1
+403,1168,#DECOY#Q72GD4|Q72GD4_THET2,34.1,33.86,1,2,0,,86488,NADH-quinone oxidoreductase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1914 PE=3 SV=1
+394,701,#DECOY#Q72HU3|Q72HU3_THET2,59.2,33.81,3,2,0,,42278,Glycos_transf_1 domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1391 PE=4 SV=1
+394,626,Q72JI3|Q72JI3_THET2,54.3,33.81,2,2,0,,48568,Hg(II) reductase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0789 PE=3 SV=1
+237,474,#DECOY#Q746K4|Q746K4_THET2,85.3,33.77,4,2,0,,28549,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0049 PE=4 SV=1
+487,838,Q72J10|Q72J10_THET2,81.9,33.71,5,2,1,Formylation,58139,Dipeptide-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0971 PE=4 SV=1
+495,1723,#DECOY#Q72J57|Q72J57_THET2,37.1,33.64,1,2,0,,106600,AAA_23 domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0922 PE=4 SV=1
+376,499,Q72IT9|Q72IT9_THET2,71.7,33.56,5,2,0,,20907,ABC transporter ATP-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1043 PE=4 SV=1
+358,2300,#DECOY#Q72H09|Q72H09_THET2,45.1,33.40,2,2,0,,61350,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1686 PE=4 SV=1
+381,373,sp|Q72H32|FMT_THET2,64.9,33.36,3,2,0,,33324,Methionyl-tRNA formyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=fmt PE=3 SV=1
+273,1183,Q745T8|Q745T8_THET2,82.2,33.34,2,2,0,,45260,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0219 PE=4 SV=1
+273,1084,Q72HY6|Q72HY6_THET2,82.1,33.34,2,2,0,,53029,SWIM-type domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1346 PE=4 SV=1
+273,1671,#DECOY#Q72LJ1|Q72LJ1_THET2,65.4,33.34,3,2,0,,32751,Signal recognition particle receptor FtsY OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=tsY PE=3 SV=1
+502,498,#DECOY#Q72HC9|Q72HC9_THET2,87.3,33.33,4,2,0,,29424,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1566 PE=4 SV=1
+474,1964,Q72L20|Q72L20_THET2,61.7,33.29,3,2,1,Formylation,58322,Rqc2 homolog RqcH OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rqcH PE=3 SV=1
+189,549,Q746H8|Q746H8_THET2,65.3,33.25,3,2,0,,32982,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0077 PE=4 SV=1
+222,683,sp|Q72IF6|TILS_THET2,52.5,33.24,2,2,0,,56281,tRNA(Ile)-lysidine synthase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=tilS PE=3 SV=1
+239,1443,#DECOY#Q746D2|Q746D2_THET2,64.1,33.17,4,2,0,,28778,Hypothetical membrane spanning protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0123 PE=4 SV=1
+516,1752,#DECOY#Q72IQ7|Q72IQ7_THET2,47.0,33.09,1,2,0,,105178,UvrABC system protein A OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=uvrA PE=3 SV=1
+466,1522,Q745Y4|Q745Y4_THET2,71.3,33.08,9,2,1,Formylation,17720,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0171 PE=4 SV=1
+377,1592,Q72J33|Q72J33_THET2,69.8,32.83,3,2,1,,40951,UDP-N-acetylglucosamine 2-epimerase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0948 PE=3 SV=1
+287,89,Q72JJ1|Q72JJ1_THET2,84.1,32.79,3,2,0,,33026,Electron transfer flavoprotein alpha-subunit OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0781 PE=3 SV=1
+440,559,#DECOY#Q72J07|Q72J07_THET2,69.3,32.74,3,2,0,,38056,PrcB_C domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0974 PE=4 SV=1
+314,555,Q72K73|Q72K73_THET2,69.0,32.65,4,2,0,,24728,Ribosomal RNA small subunit methyltransferase E OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0298 PE=3 SV=1
+314,637,#DECOY#Q72KT3|Q72KT3_THET2,65.4,32.65,3,2,0,,32498,Hypothetical cytosolic protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0434 PE=4 SV=1
+342,2040,Q72KN6|Q72KN6_THET2,51.7,32.51,2,2,0,,48216,Serine protease OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0372 PE=4 SV=1
+441,826,#DECOY#Q746K1|Q746K1_THET2,67.3,32.42,5,2,1,,31403,Probable UV endonuclease OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0052 PE=1 SV=1
+354,137,Q72K32|Q72K32_THET2,73.9,32.41,2,2,0,,56832,D-3-phosphoglycerate dehydrogenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0586 PE=3 SV=1
+348,455,#DECOY#Q72KQ0|Q72KQ0_THET2,62.6,32.18,4,2,1,,42764,Leucine-  isoleucine-  valine-  threonine-  and alanine-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0338 PE=4 SV=1
+554,760,#DECOY#Q72GZ5|Q72GZ5_THET2,51.5,32.04,2,2,0,,50480,Dihydrolipoyl dehydrogenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1700 PE=3 SV=1
+379,1520,#DECOY#Q72GF0|Q72GF0_THET2,66.3,31.97,5,2,0,,23806,Ribulose-phosphate 3-epimerase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpe PE=3 SV=1
+228,940,Q72J55|Q72J55_THET2,86.0,31.91,3,2,0,,35012,Hypothetical membrane spanning protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0924 PE=4 SV=1
+504,523,sp|Q72HJ6|TRPD_THET2,83.3,31.89,3,2,0,,34275,Anthranilate phosphoribosyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=trpD PE=3 SV=1
+393,700,Q746L8|Q746L8_THET2,59.2,31.79,3,2,0,,36829,Dehydrogenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0035 PE=3 SV=1
+508,863,#DECOY#sp|Q746H2|PARB_THET2,76.2,31.77,3,2,0,,33323,Probable plasmid-partitioning protein ParB OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=parB PE=3 SV=1
+483,1126,#DECOY#sp|Q72J22|MUTL_THET2,46.7,31.68,2,2,0,,60121,DNA mismatch repair protein MutL OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=mutL PE=3 SV=1
+397,2729,#DECOY#Q72LP8|Q72LP8_THET2,55.6,31.68,3,2,0,,43560,Sugar ABC transporter  permease protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0010 PE=3 SV=1
+382,504,#DECOY#Q72I38|Q72I38_THET2,64.9,31.65,4,2,0,,26679,SPOR domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1294 PE=4 SV=1
+479,1878,sp|P62652|RL32_THET2,60.6,31.50,12,1,1,,6717,50S ribosomal protein L32 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpmF PE=1 SV=2
+292,1062,#DECOY#sp|Q72JR6|SYI_THET2,43.6,31.46,2,2,1,,119392,Isoleucine--tRNA ligase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ileS PE=3 SV=2
+493,1122,sp|Q72IH7|PURL_THET2,71.7,31.45,1,2,0,,78643,Phosphoribosylformylglycinamidine synthase subunit PurL OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=purL PE=3 SV=1
+400,1071,Q72HJ1|Q72HJ1_THET2,48.0,31.44,2,2,0,Formylation,55911,Tetratricopeptide repeat family protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1496 PE=4 SV=1
+533,501,#DECOY#Q72HC8|Q72HC8_THET2,67.2,31.40,3,2,1,,46713,Menaquinol-cytochrome C reductase cytochrome B subunit OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1567 PE=4 SV=1
+447,630,#DECOY#sp|Q72LL6|LYSN_THET2,55.0,31.37,3,2,0,,43845,2-aminoadipate transaminase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=lysN PE=1 SV=1
+384,271,Q72KI7|Q72KI7_THET2,63.2,31.28,4,2,0,,28892,Thiol:disulfide interchange protein tlpA OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=tlpA PE=3 SV=1
+384,745,#DECOY#Q72KC2|Q72KC2_THET2,55.5,31.28,3,2,0,,41707,MFS domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0525 PE=4 SV=1
+548,674,#DECOY#Q72IQ6|Q72IQ6_THET2,59.3,31.20,3,2,0,,33954,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1076 PE=4 SV=1
+485,3094,#DECOY#sp|Q72JN8|DNLJ_THET2,37.0,31.11,1,2,0,,76956,DNA ligase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ligA PE=3 SV=1
+272,669,#DECOY#Q72J77|Q72J77_THET2,87.5,31.06,2,2,1,,85789,ATP-dependent DNA helicase RecG OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=recG PE=3 SV=1
+470,1485,Q72KK1|Q72KK1_THET2,66.2,31.04,2,2,0,,50195,Prephenate dehydrogenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0447 PE=4 SV=1
+469,445,sp|Q72LH0|KCY_THET2,69.5,30.95,6,2,1,,22564,Cytidylate kinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=cmk PE=3 SV=1
+509,759,#DECOY#sp|Q72J23|RRAAH_THET2,74.6,30.93,6,2,0,,17301,Putative 4-hydroxy-4-methyl-2-oxoglutarate aldolase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0958 PE=3 SV=1
+473,442,#DECOY#Q72LM6|Q72LM6_THET2,62.4,30.89,3,2,0,,36236,Dehydrogenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0032 PE=3 SV=1
+427,238,sp|P62655|RS13_THET2,71.1,30.72,10,2,1,Formylation,14305,30S ribosomal protein S13 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsM PE=1 SV=2
+553,839,#DECOY#Q72GB7|Q72GB7_THET2,55.6,30.64,2,2,1,Formylation,92789,DNA topoisomerase 1 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=topA PE=3 SV=1
+465,1519,Q745Z9|Q745Z9_THET2,72.7,30.63,14,2,1,,8983,SpoVT-AbrB domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0156 PE=4 SV=1
+391,758,#DECOY#Q72LH9|Q72LH9_THET2,60.2,30.58,3,2,0,,30946,Branched-chain amino acid transport system permease protein livH OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=livH PE=4 SV=1
+429,1526,#DECOY#Q72IJ6|Q72IJ6_THET2,56.7,30.53,1,2,0,,89251,Phosphoenolpyruvate synthase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1136 PE=3 SV=1
+426,591,Q72JN0|Q72JN0_THET2,75.2,30.53,2,2,0,,50767,Hypothetical conserved membrane spanning protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0742 PE=4 SV=1
+419,612,#DECOY#Q72GK5|Q72GK5_THET2,54.0,30.52,3,2,0,,42902,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1843 PE=4 SV=1
+411,332,#DECOY#Q72GZ7|Q72GZ7_THET2,81.1,30.49,2,2,1,Formylation,101002,Oxoglutarate dehydrogenase (succinyl-transferring) OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1698 PE=4 SV=1
+444,610,#DECOY#Q72G73|Q72G73_THET2,58.1,30.39,2,2,1,Oxidation (M),76800,Endopeptidase La OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1975 PE=3 SV=1
+515,705,Q72K39|Q72K39_THET2,58.1,30.36,2,2,0,,53911,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0579 PE=4 SV=1
+345,278,Q72HI3|Q72HI3_THET2,82.2,30.35,2,2,1,,64810,Transporter OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1504 PE=4 SV=1
+380,250,Q72H80|Q72H80_THET2,65.5,30.30,5,2,0,,24402,Hypothetical exported protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1615 PE=4 SV=1
+335,625,Q746N4|Q746N4_THET2,89.3,30.20,4,2,0,,30817,Cobalamin biosynthesis protein CobD OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=cbiB PE=3 SV=1
+315,251,Q72L35|Q72L35_THET2,68.7,30.17,3,2,1,,60866,Isopentenyl-diphosphate delta-isomerase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0228 PE=4 SV=1
+190,917,Q745V6|Q745V6_THET2,59.4,30.13,1,2,0,,85637,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0199 PE=4 SV=1
+481,172,Q72KR1|Q72KR1_THET2,50.2,30.08,3,2,2,,29390,Fumarylacetoacetate hydrolase family protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0457 PE=4 SV=1
+558,1041,Q72GJ2|Q72GJ2_THET2,39.3,30.02,2,2,0,,66016,Serine/threonine protein kinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1856 PE=4 SV=1
+511,664,#DECOY#Q72HB2|Q72HB2_THET2,64.2,29.91,5,2,1,,21806,MazG protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=mazG PE=4 SV=1
+545,453,#DECOY#sp|P96137|ARGJ_THET2,60.3,29.91,3,2,1,,40302,Arginine biosynthesis bifunctional protein ArgJ OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=argJ PE=3 SV=2
+338,434,#DECOY#Q72L88|Q72L88_THET2,82.6,29.54,3,2,0,,36317,TRAM domain-containing protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0172 PE=4 SV=1
+274,675,#DECOY#Q72G61|Q72G61_THET2,57.5,29.38,4,2,0,,29500,Transporter OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1987 PE=4 SV=1
+555,1341,Q72HD9|Q72HD9_THET2,49.8,29.29,2,2,0,,44243,Hypothetical membrane associated protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1554 PE=4 SV=1
+551,2577,#DECOY#Q72HG7|Q72HG7_THET2,56.6,28.87,3,2,0,,30810,Major pilin protein fimA OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=fimA PE=4 SV=1
+544,510,#DECOY#Q72JX8|Q72JX8_THET2,61.0,28.84,5,2,1,,22134,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0640 PE=4 SV=1
+443,1516,#DECOY#Q72KS7|Q72KS7_THET2,63.2,28.84,6,2,0,,19123,Tripartite transporter  small subunit OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0415 PE=4 SV=1
+281,755,#DECOY#Q745X7|Q745X7_THET2,79.3,28.84,3,2,0,,35435,Hemin transport system permease protein hmuU OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=hmuU PE=3 SV=1
+557,418,Q72KM8|Q72KM8_THET2,48.3,28.76,2,2,0,,45537,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0380 PE=3 SV=1
+265,746,#DECOY#Q72KA4|Q72KA4_THET2,52.7,28.57,1,2,1,Formylation,112399,Chromosome partition protein smc OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0543 PE=4 SV=1
+412,768,#DECOY#Q72JW9|Q72JW9_THET2,75.5,28.56,2,2,0,,44378,ABC transporter permease protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0649 PE=4 SV=1
+448,1024,#DECOY#Q72IJ3|Q72IJ3_THET2,45.5,28.55,2,2,0,,51651,Histidine kinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1139 PE=4 SV=1
+478,1617,Q745X5|Q745X5_THET2,60.9,28.45,5,2,1,,23446,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0180 PE=4 SV=1
+418,965,#DECOY#Q72H92|Q72H92_THET2,63.8,28.27,1,2,0,,71948,Competence factor comEC OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=comE PE=4 SV=1
+418,646,Q72K20|Q72K20_THET2,53.7,28.27,3,2,0,,34631,Branched-chain amino acid transport system permease protein livH OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=livH PE=4 SV=1
+546,347,sp|Q72IA8|PTH_THET2,60.0,28.04,10,1,1,,20179,Peptidyl-tRNA hydrolase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=pth PE=3 SV=1
+534,2158,#DECOY#sp|P62668|RS8_THET2,65.7,27.94,7,2,0,,15838,30S ribosomal protein S8 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsH PE=1 SV=1
+356,1632,Q72K71|Q72K71_THET2,65.3,27.90,7,2,1,,19554,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0492 PE=4 SV=1
+571,1444,sp|Q72GJ4|MURA_THET2,72.8,27.89,6,1,1,,46004,UDP-N-acetylglucosamine 1-carboxyvinyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=murA PE=3 SV=2
+385,1200,Q72GD7|Q72GD7_THET2,61.8,27.60,6,2,0,,19087,NADH-quinone oxidoreductase subunit J OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1911 PE=3 SV=1
+290,482,Q72LP4|Q72LP4_THET2,62.9,27.56,6,2,0,,16768,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0014 PE=4 SV=1
+290,813,Q72HF9|Q72HF9_THET2,57.4,27.56,4,2,0,,27168,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1528 PE=4 SV=1
+405,1317,sp|Q72JR6|SYI_THET2,54.7,26.87,1,2,0,,119392,Isoleucine--tRNA ligase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ileS PE=3 SV=2
+622,1147,sp|Q72IU3|CCME_THET2,59.5,26.83,5,1,1,,15892,Cytochrome c-type biogenesis protein CcmE OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ccmE PE=3 SV=1
+547,1875,Q72GI4|Q72GI4_THET2,59.7,26.41,7,1,1,Formylation,20482,dCTP deaminase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=dcd PE=3 SV=1
+488,805,#DECOY#sp|Q72GW4|EFTU_THET2,78.7,25.36,1,1,1,,44782,Elongation factor Tu OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=tuf1 PE=3 SV=1
+488,541,#DECOY#Q72G86|Q72G86_THET2,78.0,25.36,1,1,1,,41656,Trk system potassium uptake protein trkA OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=trkA PE=4 SV=1
+488,1323,sp|Q72GS2|RL7_THET2,52.6,25.36,4,1,1,,13067,50S ribosomal protein L7/L12 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplL PE=1 SV=1
+488,1623,#DECOY#sp|O50147|LYSZ_THET2,44.9,25.36,2,1,1,,29096,[LysW]-aminoadipate kinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=lysZ PE=1 SV=1
+343,1094,#DECOY#Q72HH3|Q72HH3_THET2,40.4,25.28,3,2,0,,43085,Sugar-binding protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1514 PE=4 SV=1
+566,1229,#DECOY#Q746F3|Q746F3_THET2,38.9,25.28,1,1,0,,90249,CRISPR system single-strand-specific deoxyribonuclease Cas10/Csm1 (subtype III-A) OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0102 PE=3 SV=1
+264,1674,#DECOY#sp|Q72GU2|ODBB_THET2,58.9,25.03,4,1,1,,35083,2-oxoisovalerate dehydrogenase subunit beta OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1756 PE=3 SV=1
+623,1895,Q72GW2|Q72GW2_THET2,58.2,24.79,10,1,1,,7065,Protein translocase subunit SecE OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=secE PE=3 SV=1
+396,1956,Q72GZ3|Q72GZ3_THET2,55.8,24.18,3,1,1,,20388,Amino-acid acetyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1703 PE=4 SV=1
+396,1885,#DECOY#Q746J7|Q746J7_THET2,54.6,24.18,2,1,1,,31109,Probable transcriptional regulator OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0056 PE=1 SV=1
+568,903,Q72I99|Q72I99_THET2,56.3,24.02,1,1,0,,42370,Putative permease OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1233 PE=4 SV=1
+497,1598,#DECOY#Q72KL4|Q72KL4_THET2,47.4,22.81,6,2,1,Formylation,38842,Sulfate adenylyltransferase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0307 PE=4 SV=1
+624,1245,#DECOY#Q72HW7|Q72HW7_THET2,56.6,22.80,19,1,1,,7938,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1365 PE=4 SV=1
+563,859,Q746C7|Q746C7_THET2,73.6,22.78,0,1,0,,186468,Uncharacterized protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0128 PE=4 SV=1
+592,2045,#DECOY#sp|Q72I05|RL4_THET2,49.8,22.41,2,1,1,,22708,50S ribosomal protein L4 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rplD PE=1 SV=1
+592,2239,#DECOY#sp|P61941|RS12_THET2,49.6,22.41,4,1,1,,14599,30S ribosomal protein S12 OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=rpsL PE=1 SV=2
+592,2466,#DECOY#Q72JW6|Q72JW6_THET2,44.0,22.41,2,1,1,,26779,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0652 PE=4 SV=1
+592,614,#DECOY#Q72KN1|Q72KN1_THET2,43.6,22.41,2,1,1,,26312,Carboxymethylenebutenolidase-related protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0376 PE=4 SV=1
+592,660,#DECOY#Q72JP4|Q72JP4_THET2,38.3,22.41,1,1,1,,37237,Cell division protein FtsZ OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=ftsZ PE=3 SV=1
+592,1385,#DECOY#Q72H84|Q72H84_THET2,32.3,22.41,1,1,1,,51195,Pyruvate kinase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1611 PE=3 SV=1
+445,1145,#DECOY#Q72LL5|Q72LL5_THET2,56.7,21.55,3,1,1,,42580,Deoxyguanosinetriphosphate triphosphohydrolase-like protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0044 PE=3 SV=1
+399,2084,Q72K22|Q72K22_THET2,50.6,21.13,2,1,1,Formylation,36887,Homoprotocatechuate 2 3-dioxygenase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C0596 PE=3 SV=1
+625,366,Q72HM0|Q72HM0_THET2,50.7,20.19,9,1,1,,22411,RNA 2' 3'-cyclic phosphodiesterase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_C1467 PE=3 SV=1
+626,968,#DECOY#sp|P83453|SYY_THET2,46.1,20.18,1,1,1,,48718,Tyrosine--tRNA ligase OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=tyrS PE=1 SV=1
+564,1115,#DECOY#Q746C3|Q746C3_THET2,55.6,20.04,1,1,0,,88080,Hypothetical conserved protein OS=Thermus thermophilus (strain ATCC BAA-163 / DSM 7039 / HB27) OX=262724 GN=TT_P0132 PE=3 SV=1
