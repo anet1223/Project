@@ -56,15 +56,16 @@ On **PCA of replicas** significant difference between control and treatment grou
 
 GO annatation was taken from [here](https://www.ebi.ac.uk/QuickGO/).
 
-![GO location](https://github.com/anet1223/Project/blob/main/plots/GO_location.png)
+<img src="https://github.com/anet1223/Project/blob/main/plots/GO_location.png" width=50% height=50%>  
 
-![GO functions](https://github.com/anet1223/Project/blob/main/plots/GO_function.png)
+<img src="https://github.com/anet1223/Project/blob/main/plots/GO_function.png" width=50% height=50%> 
 
-![GO processes](https://github.com/anet1223/Project/blob/main/plots/GO_processes.png)
+<img src="https://github.com/anet1223/Project/blob/main/plots/GO_processes.png" width=50% height=50%>
+ 
 
 As the ribosomes were mostly involved in changes, a closer look was taken on ribosomal proteins: 23 ribosomal proteins with difference, 16 ribosomal proteins without changes
 
-![](https://github.com/anet1223/Project/blob/main/plots/heatmap_ribosomal_proteins.png)
+<img src="https://github.com/anet1223/Project/blob/main/plots/heatmap_ribosomal_proteins.png" width=50% height=50%>
 
 ## Conclusions
 
@@ -75,3 +76,6 @@ As the ribosomes were mostly involved in changes, a closer look was taken on rib
 -   Antibacterial action of R23I is likely through disturbance of translation, ion transport and oxidative stress response.
 
 -   Different software (Peaks and IdentiPy) showed significant disagreement on the same data (common result about 60%)
+
+
+
