@@ -52,9 +52,9 @@ On **PCA of replicas** significant difference between control and treatment grou
 
 **Dose effect** was also found in pair-wise comparison:
 
-![](https://github.com/anet1223/Project/blob/main/plots/Dose_effect.png)
+<img src="https://github.com/anet1223/Project/blob/main/plots/Dose_effect.png" width=50% height=50%>
 
-GO annatation was taken from [here](https://www.ebi.ac.uk/QuickGO/).
+**GO annotation** was taken from [here](https://www.ebi.ac.uk/QuickGO/).
 
 <img src="https://github.com/anet1223/Project/blob/main/plots/GO_location.png" width=50% height=50%>  
 
